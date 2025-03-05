@@ -3,6 +3,7 @@ import http from 'http';
 
 import { CRUD_ICONS, log } from './utils/logs';
 import { HOST } from './utils/serverIP';
+import { initializeSocketClient } from './connection/client';
 
 const app = express();
 const server = http.createServer(app);
@@ -68,6 +69,8 @@ const startServer = async (): Promise<void> => {
         log(`Error al iniciar el servidor: ${errorMessage}`, 'error', 'server');
         process.exit(1);
       });
+
+    initializeSocketClient();
   } catch (err) {
     const errorMessage = err instanceof Error ? err.message : 'Unknown error';
     log(`Failed to initialize services: ${errorMessage}`, 'error', 'server');
