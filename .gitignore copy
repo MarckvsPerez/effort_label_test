@@ -1,0 +1,64 @@
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Directorios de dependencias
+/node_modules/
+/vendor/
+/.venv/
+/env/
+/venv/
+
+# Archivos de construcción y distribución
+/dist/
+/build/
+/out/
+/.next/
+
+# Archivos de configuración local
+.env
+.env.local
+.env.*.local
+*.local.json
+
+# Archivos de registro
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Archivos de caché
+.cache/
+.parcel-cache/
+.npm/
+.eslintcache
+
+# Archivos de IDE y editores
+/.idea/
+/.vscode/
+*.swp
+*.swo
+*~
+
+# Archivos compilados
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+*.pyc
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Archivos de cobertura de pruebas
+/coverage/
+.nyc_output/
+.coverage
+htmlcov/
+
+# Archivos temporales
+/tmp/
+/temp/

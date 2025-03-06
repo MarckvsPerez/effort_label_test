@@ -1,22 +1,23 @@
 import { type Socket } from 'socket.io-client';
+import dotenv from 'dotenv';
 import {
   type ResponseMessageBase,
   type SocketMessageBase,
 } from '@/types/mainIo';
-import { emitEvent } from '@/connection/event';
+import { emitEvent } from '../event';
 import {
   type MainIoEvent,
   type MainIoHandlerPayloads,
   MainIOManager,
-} from './manager/index';
+} from './manager';
+
+dotenv.config();
 
 export const messageEvent = (socket: Socket): void => {
   socket.on('message', async (data: SocketMessageBase) => {
     const response = data.message as ResponseMessageBase;
     const owner = data.remitter;
-
-    if (!response.requestId) return;
-    const requestId: string = response.requestId;
+    const requestId: string = response.requestId ?? response.taskId;
 
     if (response.event.includes('ResGet')) {
       emitEvent(requestId, owner, response, response.success);
