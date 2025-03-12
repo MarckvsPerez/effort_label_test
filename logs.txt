@@ -1,0 +1,722 @@
+SUCCESS    | 07/03/2025, 09:46:22 | [2m[src\vusion\1.5_BWRY_101.ts][22m              | 🟢 Match label - Tiempo: 152793msSUCCESS    | 07/03/2025, 09:46:22 | [2m[src\vusion\2.6_BWR_106.ts][22m               | 🟢 Match label - Tiempo: 152792msSUCCESS    | 07/03/2025, 09:46:22 | [2m[src\vusion\1.5_BWRY_103.ts][22m              | 🟢 Match label - Tiempo: 152794msSUCCESS    | 07/03/2025, 09:46:22 | [2m[src\vusion\1.5_BWRY_102.ts][22m              | 🟢 Match label - Tiempo: 152825msSUCCESS    | 07/03/2025, 09:46:22 | [2m[src\vusion\2.6_BWR_105.ts][22m               | 🟢 Match label - Tiempo: 152825msSUCCESS    | 07/03/2025, 09:46:22 | [2m[src\vusion\4.2_BWRy_109.ts][22m              | 🟢 Match label - Tiempo: 152823msSUCCESS    | 07/03/2025, 09:46:22 | [2m[src\vusion\4.2_BWRy_107.ts][22m              | 🟢 Match label - Tiempo: 152826msSUCCESS    | 07/03/2025, 09:46:22 | [2m[src\vusion\2.6_BWR_104.ts][22m               | 🟢 Match label - Tiempo: 152827msSUCCESS    | 07/03/2025, 09:46:22 | [2m[src\vusion\4.2_BWRy_108.ts][22m              | 🟢 Match label - Tiempo: 152825msSUCCESS    | 07/03/2025, 09:48:43 | [2m[src\vusion\1.5_BWRY_101.ts][22m              | 🟢 Match label - Tiempo: 113529msSUCCESS    | 07/03/2025, 09:48:43 | [2m[src\vusion\2.6_BWR_104.ts][22m               | 🟢 Match label - Tiempo: 113529msSUCCESS    | 07/03/2025, 09:48:43 | [2m[src\vusion\2.6_BWR_106.ts][22m               | 🟢 Match label - Tiempo: 113560msSUCCESS    | 07/03/2025, 09:48:43 | [2m[src\vusion\2.6_BWR_105.ts][22m               | 🟢 Match label - Tiempo: 113561msSUCCESS    | 07/03/2025, 09:48:43 | [2m[src\vusion\4.2_BWRy_108.ts][22m              | 🟢 Match label - Tiempo: 113562msSUCCESS    | 07/03/2025, 09:48:43 | [2m[src\vusion\4.2_BWRy_109.ts][22m              | 🟢 Match label - Tiempo: 113562msSUCCESS    | 07/03/2025, 09:48:43 | [2m[src\vusion\1.5_BWRY_103.ts][22m              | 🟢 Match label - Tiempo: 113562msSUCCESS    | 07/03/2025, 09:48:43 | [2m[src\vusion\1.5_BWRY_102.ts][22m              | 🟢 Match label - Tiempo: 113561msSUCCESS    | 07/03/2025, 09:48:43 | [2m[src\vusion\4.2_BWRy_107.ts][22m              | 🟢 Match label - Tiempo: 113563msSUCCESS    | 07/03/2025, 09:48:52 | [2m[src\index.ts][22m                            | 📡 Server running at http://192.168.0.138:3000/
+SUCCESS    | 07/03/2025, 09:48:53 | [2m[src\connection\client\index.ts][22m          | 🟢 Connected to socket client
+SUCCESS    | 07/03/2025, 09:50:42 | [2m[src\vusion\1.5_BWRY_101.ts][22m              | 🟢 Match label - Tiempo: 109347ms
+SUCCESS    | 07/03/2025, 09:50:42 | [2m[src\vusion\1.5_BWRY_102.ts][22m              | 🟢 Match label - Tiempo: 109349ms
+SUCCESS    | 07/03/2025, 09:50:42 | [2m[src\vusion\2.6_BWR_104.ts][22m               | 🟢 Match label - Tiempo: 109390ms
+SUCCESS    | 07/03/2025, 09:50:42 | [2m[src\vusion\2.6_BWR_105.ts][22m               | 🟢 Match label - Tiempo: 109390ms
+SUCCESS    | 07/03/2025, 09:50:42 | [2m[src\vusion\4.2_BWRy_109.ts][22m              | 🟢 Match label - Tiempo: 109390ms
+SUCCESS    | 07/03/2025, 09:50:42 | [2m[src\vusion\2.6_BWR_106.ts][22m               | 🟢 Match label - Tiempo: 109391ms
+SUCCESS    | 07/03/2025, 09:50:42 | [2m[src\vusion\4.2_BWRy_107.ts][22m              | 🟢 Match label - Tiempo: 109390ms
+SUCCESS    | 07/03/2025, 09:50:42 | [2m[src\vusion\1.5_BWRY_103.ts][22m              | 🟢 Match label - Tiempo: 109393ms
+SUCCESS    | 07/03/2025, 09:50:42 | [2m[src\vusion\4.2_BWRy_108.ts][22m              | 🟢 Match label - Tiempo: 109391ms
+SUCCESS    | 07/03/2025, 09:53:46 | [2m[src\vusion\1.5_BWRY_101.ts][22m              | 🟢 Match label - Tiempo: 113775ms
+SUCCESS    | 07/03/2025, 09:53:46 | [2m[src\vusion\2.6_BWR_104.ts][22m               | 🟢 Match label - Tiempo: 113775ms
+SUCCESS    | 07/03/2025, 09:53:46 | [2m[src\vusion\1.5_BWRY_102.ts][22m              | 🟢 Match label - Tiempo: 113820ms
+SUCCESS    | 07/03/2025, 09:53:46 | [2m[src\vusion\2.6_BWR_106.ts][22m               | 🟢 Match label - Tiempo: 113820ms
+SUCCESS    | 07/03/2025, 09:53:46 | [2m[src\vusion\1.5_BWRY_103.ts][22m              | 🟢 Match label - Tiempo: 113821ms
+SUCCESS    | 07/03/2025, 09:53:46 | [2m[src\vusion\4.2_BWRy_107.ts][22m              | 🟢 Match label - Tiempo: 113822ms
+SUCCESS    | 07/03/2025, 09:53:46 | [2m[src\vusion\2.6_BWR_105.ts][22m               | 🟢 Match label - Tiempo: 113821ms
+SUCCESS    | 07/03/2025, 09:53:46 | [2m[src\vusion\4.2_BWRy_109.ts][22m              | 🟢 Match label - Tiempo: 113822ms
+SUCCESS    | 07/03/2025, 09:53:46 | [2m[src\vusion\4.2_BWRy_108.ts][22m              | 🟢 Match label - Tiempo: 113820ms
+SUCCESS    | 07/03/2025, 09:58:48 | [2m[src\vusion\2.6_BWR_106.ts][22m               | 🟢 Match label - Tiempo: 55912ms
+SUCCESS    | 07/03/2025, 09:58:49 | [2m[src\vusion\4.2_BWRy_108.ts][22m              | 🟢 Match label - Tiempo: 55967ms
+SUCCESS    | 07/03/2025, 09:58:49 | [2m[src\vusion\1.5_BWRY_102.ts][22m              | 🟢 Match label - Tiempo: 55968ms
+SUCCESS    | 07/03/2025, 09:58:49 | [2m[src\vusion\1.5_BWRY_103.ts][22m              | 🟢 Match label - Tiempo: 55966ms
+SUCCESS    | 07/03/2025, 09:58:49 | [2m[src\vusion\4.2_BWRy_109.ts][22m              | 🟢 Match label - Tiempo: 55967ms
+SUCCESS    | 07/03/2025, 09:58:49 | [2m[src\vusion\2.6_BWR_105.ts][22m               | 🟢 Match label - Tiempo: 55970ms
+SUCCESS    | 07/03/2025, 09:58:49 | [2m[src\vusion\4.2_BWRy_107.ts][22m              | 🟢 Match label - Tiempo: 55969ms
+SUCCESS    | 07/03/2025, 09:58:49 | [2m[src\vusion\1.5_BWRY_101.ts][22m              | 🟢 Match label - Tiempo: 55971ms
+SUCCESS    | 07/03/2025, 09:58:49 | [2m[src\vusion\2.6_BWR_104.ts][22m               | 🟢 Match label - Tiempo: 55969ms
+SUCCESS    | 07/03/2025, 10:03:22 | [2m[src\vusion\1.5_BWRY_103.ts][22m              | 🟢 Match label - Tiempo: 149450ms
+SUCCESS    | 07/03/2025, 10:03:22 | [2m[src\vusion\1.5_BWRY_101.ts][22m              | 🟢 Match label - Tiempo: 149450ms
+SUCCESS    | 07/03/2025, 10:03:22 | [2m[src\vusion\1.5_BWRY_102.ts][22m              | 🟢 Match label - Tiempo: 149451ms
+SUCCESS    | 07/03/2025, 10:03:22 | [2m[src\vusion\2.6_BWR_105.ts][22m               | 🟢 Match label - Tiempo: 149451ms
+SUCCESS    | 07/03/2025, 10:03:22 | [2m[src\vusion\2.6_BWR_104.ts][22m               | 🟢 Match label - Tiempo: 149451ms
+SUCCESS    | 07/03/2025, 10:03:22 | [2m[src\vusion\2.6_BWR_106.ts][22m               | 🟢 Match label - Tiempo: 149452ms
+SUCCESS    | 07/03/2025, 10:03:22 | [2m[src\vusion\4.2_BWRy_107.ts][22m              | 🟢 Match label - Tiempo: 149451ms
+SUCCESS    | 07/03/2025, 10:03:22 | [2m[src\vusion\4.2_BWRy_109.ts][22m              | 🟢 Match label - Tiempo: 149451ms
+SUCCESS    | 07/03/2025, 10:03:22 | [2m[src\vusion\2.6_BWR_106.ts][22m               | 🟢 Match label - Tiempo: 1741338053066ms
+SUCCESS    | 07/03/2025, 10:03:22 | [2m[src\vusion\4.2_BWRy_108.ts][22m              | 🟢 Match label - Tiempo: 149452ms
+SUCCESS    | 07/03/2025, 10:03:22 | [2m[src\vusion\1.5_BWRY_101.ts][22m              | 🟢 Match label - Tiempo: 1741338053068ms
+SUCCESS    | 07/03/2025, 10:03:22 | [2m[src\vusion\4.2_BWRy_107.ts][22m              | 🟢 Match label - Tiempo: 1741338053068ms
+SUCCESS    | 07/03/2025, 10:03:22 | [2m[src\vusion\2.6_BWR_105.ts][22m               | 🟢 Match label - Tiempo: 1741338053068ms
+SUCCESS    | 07/03/2025, 10:03:22 | [2m[src\vusion\2.6_BWR_104.ts][22m               | 🟢 Match label - Tiempo: 1741338053069ms
+SUCCESS    | 07/03/2025, 10:03:22 | [2m[src\vusion\1.5_BWRY_103.ts][22m              | 🟢 Match label - Tiempo: 1741338053069ms
+SUCCESS    | 07/03/2025, 10:03:22 | [2m[src\vusion\4.2_BWRy_109.ts][22m              | 🟢 Match label - Tiempo: 1741338053069ms
+SUCCESS    | 07/03/2025, 10:03:22 | [2m[src\vusion\4.2_BWRy_108.ts][22m              | 🟢 Match label - Tiempo: 1741338053069ms
+SUCCESS    | 07/03/2025, 10:07:42 | [2m[src\vusion\2.6_BWR_105.ts][22m               | 🟢 Match label - Tiempo: 49559ms
+SUCCESS    | 07/03/2025, 10:07:42 | [2m[src\vusion\2.6_BWR_104.ts][22m               | 🟢 Match label - Tiempo: 49592ms
+SUCCESS    | 07/03/2025, 10:07:42 | [2m[src\vusion\1.5_BWRY_102.ts][22m              | 🟢 Match label - Tiempo: 49594ms
+SUCCESS    | 07/03/2025, 10:07:42 | [2m[src\vusion\2.6_BWR_106.ts][22m               | 🟢 Match label - Tiempo: 49594ms
+SUCCESS    | 07/03/2025, 10:07:42 | [2m[src\vusion\1.5_BWRY_101.ts][22m              | 🟢 Match label - Tiempo: 49595ms
+SUCCESS    | 07/03/2025, 10:07:42 | [2m[src\vusion\4.2_BWRy_109.ts][22m              | 🟢 Match label - Tiempo: 49595ms
+SUCCESS    | 07/03/2025, 10:07:42 | [2m[src\vusion\4.2_BWRy_108.ts][22m              | 🟢 Match label - Tiempo: 49595ms
+SUCCESS    | 07/03/2025, 10:07:42 | [2m[src\vusion\1.5_BWRY_103.ts][22m              | 🟢 Match label - Tiempo: 49595ms
+SUCCESS    | 07/03/2025, 10:07:42 | [2m[src\vusion\4.2_BWRy_107.ts][22m              | 🟢 Match label - Tiempo: 49593ms
+SUCCESS    | 07/03/2025, 10:08:57 | [2m[src\vusion\1.5_BWRY_103.ts][22m              | 🟢 Match label - Tiempo: 1741338488099ms
+SUCCESS    | 07/03/2025, 10:08:57 | [2m[src\vusion\1.5_BWRY_101.ts][22m              | 🟢 Match label - Tiempo: 1741338488098ms
+SUCCESS    | 07/03/2025, 10:08:57 | [2m[src\vusion\2.6_BWR_104.ts][22m               | 🟢 Match label - Tiempo: 1741338488102ms
+SUCCESS    | 07/03/2025, 10:08:57 | [2m[src\vusion\2.6_BWR_106.ts][22m               | 🟢 Match label - Tiempo: 1741338488132ms
+SUCCESS    | 07/03/2025, 10:08:57 | [2m[src\vusion\4.2_BWRy_107.ts][22m              | 🟢 Match label - Tiempo: 1741338488133ms
+SUCCESS    | 07/03/2025, 10:08:57 | [2m[src\vusion\1.5_BWRY_102.ts][22m              | 🟢 Match label - Tiempo: 1741338488131ms
+SUCCESS    | 07/03/2025, 10:08:57 | [2m[src\vusion\2.6_BWR_105.ts][22m               | 🟢 Match label - Tiempo: 1741338488168ms
+SUCCESS    | 07/03/2025, 10:08:57 | [2m[src\vusion\4.2_BWRy_109.ts][22m              | 🟢 Match label - Tiempo: 1741338488132ms
+SUCCESS    | 07/03/2025, 10:08:57 | [2m[src\vusion\4.2_BWRy_108.ts][22m              | 🟢 Match label - Tiempo: 1741338488132ms
+SUCCESS    | 07/03/2025, 10:17:11 | [2m[src\index.ts][22m                            | 📡 Server running at http://192.168.0.138:3000/
+SUCCESS    | 07/03/2025, 10:17:11 | [2m[src\connection\client\index.ts][22m          | 🟢 Connected to socket client
+SUCCESS    | 07/03/2025, 10:17:13 | [2m[src\index.ts][22m                            | 📡 Server running at http://192.168.0.138:3000/
+SUCCESS    | 07/03/2025, 10:17:13 | [2m[src\connection\client\index.ts][22m          | 🟢 Connected to socket client
+SUCCESS    | 07/03/2025, 10:26:54 | [2m[src\vusion\4.2_BWRy_109.ts][22m              | 🟢 Match label - Tiempo: 40611ms
+SUCCESS    | 07/03/2025, 10:26:54 | [2m[src\vusion\4.2_BWRy_108.ts][22m              | 🟢 Match label - Tiempo: 40613ms
+SUCCESS    | 07/03/2025, 10:26:54 | [2m[src\vusion\2.6_BWR_104.ts][22m               | 🟢 Match label - Tiempo: 40626ms
+SUCCESS    | 07/03/2025, 10:26:54 | [2m[src\vusion\1.5_BWRY_103.ts][22m              | 🟢 Match label - Tiempo: 40626ms
+SUCCESS    | 07/03/2025, 10:28:52 | [2m[src\vusion\4.2_BWRy_109.ts][22m              | 🟢 Match label - Tiempo: 1741339691810ms
+SUCCESS    | 07/03/2025, 10:28:52 | [2m[src\vusion\2.6_BWR_106.ts][22m               | 🟢 Match label - Tiempo: 158705ms
+SUCCESS    | 07/03/2025, 10:28:52 | [2m[src\vusion\2.6_BWR_105.ts][22m               | 🟢 Match label - Tiempo: 158750ms
+SUCCESS    | 07/03/2025, 10:28:52 | [2m[src\vusion\2.6_BWR_104.ts][22m               | 🟢 Match label - Tiempo: 1741339691841ms
+SUCCESS    | 07/03/2025, 10:28:52 | [2m[src\vusion\4.2_BWRy_107.ts][22m              | 🟢 Match label - Tiempo: 158750ms
+SUCCESS    | 07/03/2025, 10:28:52 | [2m[src\vusion\4.2_BWRy_108.ts][22m              | 🟢 Match label - Tiempo: 1741339691856ms
+SUCCESS    | 07/03/2025, 10:28:52 | [2m[src\vusion\1.5_BWRY_102.ts][22m              | 🟢 Match label - Tiempo: 158752ms
+SUCCESS    | 07/03/2025, 10:28:52 | [2m[src\vusion\1.5_BWRY_101.ts][22m              | 🟢 Match label - Tiempo: 338754ms
+SUCCESS    | 07/03/2025, 10:28:52 | [2m[src\vusion\1.5_BWRY_103.ts][22m              | 🟢 Match label - Tiempo: 1741339691843ms
+SUCCESS    | 07/03/2025, 10:30:25 | [2m[src\vusion\1.5_BWRY_101.ts][22m              | 🟢 Match label - Tiempo: 252238ms
+SUCCESS    | 07/03/2025, 10:30:25 | [2m[src\vusion\1.5_BWRY_102.ts][22m              | 🟢 Match label - Tiempo: 72273ms
+SUCCESS    | 07/03/2025, 10:30:25 | [2m[src\vusion\2.6_BWR_105.ts][22m               | 🟢 Match label - Tiempo: 72273ms
+SUCCESS    | 07/03/2025, 10:30:25 | [2m[src\vusion\4.2_BWRy_109.ts][22m              | 🟢 Match label - Tiempo: 72273ms
+SUCCESS    | 07/03/2025, 10:30:25 | [2m[src\vusion\2.6_BWR_104.ts][22m               | 🟢 Match label - Tiempo: 72273ms
+SUCCESS    | 07/03/2025, 10:30:25 | [2m[src\vusion\4.2_BWRy_108.ts][22m              | 🟢 Match label - Tiempo: 72274ms
+SUCCESS    | 07/03/2025, 10:30:25 | [2m[src\vusion\2.6_BWR_106.ts][22m               | 🟢 Match label - Tiempo: 72274ms
+SUCCESS    | 07/03/2025, 10:30:25 | [2m[src\vusion\4.2_BWRy_107.ts][22m              | 🟢 Match label - Tiempo: 72274ms
+SUCCESS    | 07/03/2025, 10:30:25 | [2m[src\vusion\1.5_BWRY_103.ts][22m              | 🟢 Match label - Tiempo: 72276ms
+SUCCESS    | 07/03/2025, 10:30:42 | [2m[src\index.ts][22m                            | 📡 Server running at http://192.168.0.138:3000/
+SUCCESS    | 07/03/2025, 10:30:42 | [2m[src\connection\client\index.ts][22m          | 🟢 Connected to socket client
+SUCCESS    | 07/03/2025, 10:30:46 | [2m[src\index.ts][22m                            | 📡 Server running at http://192.168.0.138:3000/
+SUCCESS    | 07/03/2025, 10:30:47 | [2m[src\connection\client\index.ts][22m          | 🟢 Connected to socket client
+SUCCESS    | 07/03/2025, 10:34:34 | [2m[src\index.ts][22m                            | 📡 Server running at http://192.168.0.138:3000/
+SUCCESS    | 07/03/2025, 10:34:34 | [2m[src\connection\client\index.ts][22m          | 🟢 Connected to socket client
+SUCCESS    | 07/03/2025, 10:36:42 | [2m[src\vusion\Message.ts][22m                   | 🟢 Match label - Tiempo: 127904ms
+SUCCESS    | 07/03/2025, 10:36:42 | [2m[src\vusion\Message.ts][22m                   | 🟢 Match label - Tiempo: 127905ms
+SUCCESS    | 07/03/2025, 10:36:42 | [2m[src\vusion\Message.ts][22m                   | 🟢 Match label - Tiempo: 127905ms
+SUCCESS    | 07/03/2025, 10:36:42 | [2m[src\vusion\Message.ts][22m                   | 🟢 Match label - Tiempo: 127935ms
+SUCCESS    | 07/03/2025, 10:36:42 | [2m[src\vusion\Message.ts][22m                   | 🟢 Match label - Tiempo: 127935ms
+SUCCESS    | 07/03/2025, 10:36:42 | [2m[src\vusion\Message.ts][22m                   | 🟢 Match label - Tiempo: 127937ms
+SUCCESS    | 07/03/2025, 10:36:42 | [2m[src\vusion\Message.ts][22m                   | 🟢 Match label - Tiempo: 127936ms
+SUCCESS    | 07/03/2025, 10:36:42 | [2m[src\vusion\Message.ts][22m                   | 🟢 Match label - Tiempo: 127938ms
+SUCCESS    | 07/03/2025, 10:36:42 | [2m[src\vusion\Message.ts][22m                   | 🟢 Match label - Tiempo: 127939ms
+SUCCESS    | 07/03/2025, 10:40:15 | [2m[src\vusion\Message.ts][22m                   | 🟢 Match label - Tiempo: 160941ms
+SUCCESS    | 07/03/2025, 10:40:15 | [2m[src\vusion\Message.ts][22m                   | 🟢 Match label - Tiempo: 160942ms
+SUCCESS    | 07/03/2025, 10:40:15 | [2m[src\vusion\Message.ts][22m                   | 🟢 Match label - Tiempo: 160943ms
+SUCCESS    | 07/03/2025, 10:40:15 | [2m[src\vusion\Message.ts][22m                   | 🟢 Match label - Tiempo: 160971ms
+SUCCESS    | 07/03/2025, 10:40:15 | [2m[src\vusion\Message.ts][22m                   | 🟢 Match label - Tiempo: 160974ms
+SUCCESS    | 07/03/2025, 10:40:15 | [2m[src\vusion\Message.ts][22m                   | 🟢 Match label - Tiempo: 160972ms
+SUCCESS    | 07/03/2025, 10:40:15 | [2m[src\vusion\Message.ts][22m                   | 🟢 Match label - Tiempo: 160973ms
+SUCCESS    | 07/03/2025, 10:40:15 | [2m[src\vusion\Message.ts][22m                   | 🟢 Match label - Tiempo: 160973ms
+SUCCESS    | 07/03/2025, 10:40:15 | [2m[src\vusion\Message.ts][22m                   | 🟢 Match label - Tiempo: 160974ms
+SUCCESS    | 07/03/2025, 10:46:36 | [2m[src\index.ts][22m                            | 📡 Server running at http://192.168.0.138:3000/
+SUCCESS    | 07/03/2025, 10:46:36 | [2m[src\connection\client\index.ts][22m          | 🟢 Connected to socket client
+SUCCESS    | 07/03/2025, 10:49:14 | [2m[src\vusion\Message.ts][22m                   | 🟢 Match label - Tiempo: 157951ms
+SUCCESS    | 07/03/2025, 10:49:14 | [2m[src\vusion\Message.ts][22m                   | 🟢 Match label - Tiempo: 157952ms
+SUCCESS    | 07/03/2025, 10:49:14 | [2m[src\vusion\Message.ts][22m                   | 🟢 Match label - Tiempo: 157952ms
+SUCCESS    | 07/03/2025, 10:49:14 | [2m[src\vusion\Message.ts][22m                   | 🟢 Match label - Tiempo: 157984ms
+SUCCESS    | 07/03/2025, 10:49:14 | [2m[src\vusion\Message.ts][22m                   | 🟢 Match label - Tiempo: 157983ms
+SUCCESS    | 07/03/2025, 10:49:14 | [2m[src\vusion\Message.ts][22m                   | 🟢 Match label - Tiempo: 157984ms
+SUCCESS    | 07/03/2025, 10:49:14 | [2m[src\vusion\Message.ts][22m                   | 🟢 Match label - Tiempo: 157984ms
+SUCCESS    | 07/03/2025, 10:49:14 | [2m[src\vusion\Message.ts][22m                   | 🟢 Match label - Tiempo: 157985ms
+SUCCESS    | 07/03/2025, 10:49:14 | [2m[src\vusion\Message.ts][22m                   | 🟢 Match label - Tiempo: 157986ms
+SUCCESS    | 07/03/2025, 10:49:42 | [2m[src\index.ts][22m                            | 📡 Server running at http://192.168.0.138:3000/
+SUCCESS    | 07/03/2025, 10:49:42 | [2m[src\connection\client\index.ts][22m          | 🟢 Connected to socket client
+SUCCESS    | 07/03/2025, 10:50:13 | [2m[src\index.ts][22m                            | 📡 Server running at http://192.168.0.138:3000/
+SUCCESS    | 07/03/2025, 10:50:13 | [2m[src\connection\client\index.ts][22m          | 🟢 Connected to socket client
+SUCCESS    | 07/03/2025, 10:55:11 | [2m[src\index.ts][22m                            | 📡 Server running at http://192.168.0.138:3000/
+SUCCESS    | 07/03/2025, 10:55:12 | [2m[src\connection\client\index.ts][22m          | 🟢 Connected to socket client
+SUCCESS    | 07/03/2025, 10:55:12 | [2m[src\bowtz\Message.ts][22m                    | 🟢 Match label - Tiempo: 420ms
+SUCCESS    | 07/03/2025, 10:55:12 | [2m[src\bowtz\Message.ts][22m                    | 🟢 Match label - Tiempo: 420ms
+SUCCESS    | 07/03/2025, 10:57:25 | [2m[src\index.ts][22m                            | 📡 Server running at http://192.168.0.138:3000/
+SUCCESS    | 07/03/2025, 10:57:25 | [2m[src\connection\client\index.ts][22m          | 🟢 Connected to socket client
+SUCCESS    | 07/03/2025, 10:57:35 | [2m[src\index.ts][22m                            | 📡 Server running at http://192.168.0.138:3000/
+SUCCESS    | 07/03/2025, 10:57:35 | [2m[src\connection\client\index.ts][22m          | 🟢 Connected to socket client
+SUCCESS    | 07/03/2025, 10:57:38 | [2m[src\index.ts][22m                            | 📡 Server running at http://192.168.0.138:3000/
+SUCCESS    | 07/03/2025, 10:57:38 | [2m[src\connection\client\index.ts][22m          | 🟢 Connected to socket client
+SUCCESS    | 07/03/2025, 11:00:54 | [2m[src\index.ts][22m                            | 📡 Server running at http://192.168.0.138:3000/
+SUCCESS    | 07/03/2025, 11:00:54 | [2m[src\connection\client\index.ts][22m          | 🟢 Connected to socket client
+SUCCESS    | 07/03/2025, 11:01:45 | [2m[src\index.ts][22m                            | 📡 Server running at http://192.168.0.138:3000/
+SUCCESS    | 07/03/2025, 11:01:45 | [2m[src\connection\client\index.ts][22m          | 🟢 Connected to socket client
+SUCCESS    | 07/03/2025, 11:01:46 | [2m[src\bowtz\Message.ts][22m                    | 🟢 Match label - Tiempo: 344ms
+SUCCESS    | 07/03/2025, 11:01:46 | [2m[src\bowtz\Message.ts][22m                    | 🟢 Match label - Tiempo: 344ms
+SUCCESS    | 07/03/2025, 11:01:47 | [2m[src\index.ts][22m                            | 📡 Server running at http://192.168.0.138:3000/
+SUCCESS    | 07/03/2025, 11:01:47 | [2m[src\connection\client\index.ts][22m          | 🟢 Connected to socket client
+SUCCESS    | 07/03/2025, 11:01:48 | [2m[src\index.ts][22m                            | 📡 Server running at http://192.168.0.138:3000/
+SUCCESS    | 07/03/2025, 11:01:48 | [2m[src\connection\client\index.ts][22m          | 🟢 Connected to socket client
+SUCCESS    | 07/03/2025, 11:01:48 | [2m[src\bowtz\Message.ts][22m                    | 🟢 Match label - Tiempo: 382ms
+SUCCESS    | 07/03/2025, 11:01:48 | [2m[src\bowtz\Message.ts][22m                    | 🟢 Match label - Tiempo: 384ms
+SUCCESS    | 07/03/2025, 11:01:56 | [2m[src\index.ts][22m                            | 📡 Server running at http://192.168.0.138:3000/
+SUCCESS    | 07/03/2025, 11:01:56 | [2m[src\connection\client\index.ts][22m          | 🟢 Connected to socket client
+SUCCESS    | 07/03/2025, 11:01:56 | [2m[src\bowtz\Message.ts][22m                    | 🟢 Match label - Tiempo: 389ms
+SUCCESS    | 07/03/2025, 11:01:56 | [2m[src\bowtz\Message.ts][22m                    | 🟢 Match label - Tiempo: 390ms
+SUCCESS    | 07/03/2025, 11:02:40 | [2m[src\index.ts][22m                            | 📡 Server running at http://192.168.0.138:3000/
+SUCCESS    | 07/03/2025, 11:02:40 | [2m[src\connection\client\index.ts][22m          | 🟢 Connected to socket client
+SUCCESS    | 07/03/2025, 11:04:44 | [2m[src\vusion\Message.ts][22m                   | 🟢 Match label - Tiempo: 123252ms
+SUCCESS    | 07/03/2025, 11:04:44 | [2m[src\vusion\Message.ts][22m                   | 🟢 Match label - Tiempo: 123252ms
+SUCCESS    | 07/03/2025, 11:04:44 | [2m[src\vusion\Message.ts][22m                   | 🟢 Match label - Tiempo: 123253ms
+SUCCESS    | 07/03/2025, 11:04:44 | [2m[src\vusion\Message.ts][22m                   | 🟢 Match label - Tiempo: 123254ms
+SUCCESS    | 07/03/2025, 11:04:44 | [2m[src\vusion\Message.ts][22m                   | 🟢 Match label - Tiempo: 123254ms
+SUCCESS    | 07/03/2025, 11:06:38 | [2m[src\vusion\Message.ts][22m                   | 🟢 Match label - Tiempo: 237760ms
+SUCCESS    | 07/03/2025, 11:06:38 | [2m[src\vusion\Message.ts][22m                   | 🟢 Match label - Tiempo: 237761ms
+SUCCESS    | 07/03/2025, 11:06:38 | [2m[src\vusion\Message.ts][22m                   | 🟢 Match label - Tiempo: 237762ms
+SUCCESS    | 07/03/2025, 11:06:38 | [2m[src\vusion\Message.ts][22m                   | 🟢 Match label - Tiempo: 237763ms
+SUCCESS    | 07/03/2025, 11:07:10 | [2m[src\vusion\Message.ts][22m                   | 🟢 Match label - Tiempo: 89710ms
+SUCCESS    | 07/03/2025, 11:09:38 | [2m[src\index.ts][22m                            | 📡 Server running at http://192.168.0.138:3000/
+SUCCESS    | 07/03/2025, 11:09:38 | [2m[src\connection\client\index.ts][22m          | 🟢 Connected to socket client
+SUCCESS    | 07/03/2025, 11:09:38 | [2m[src\bowtz\Message.ts][22m                    | 🟢 Match label - Tiempo: 498ms
+SUCCESS    | 07/03/2025, 11:09:39 | [2m[src\bowtz\Message.ts][22m                    | 🟢 Match label - Tiempo: 625ms
+SUCCESS    | 07/03/2025, 11:11:41 | [2m[src\index.ts][22m                            | 📡 Server running at http://192.168.0.138:3000/
+SUCCESS    | 07/03/2025, 11:11:41 | [2m[src\connection\client\index.ts][22m          | 🟢 Connected to socket client
+SUCCESS    | 07/03/2025, 11:11:42 | [2m[src\bowtz\Message.ts][22m                    | 🟢 Match label - Tiempo: 417ms
+SUCCESS    | 07/03/2025, 11:12:16 | [2m[src\index.ts][22m                            | 📡 Server running at http://192.168.0.138:3000/
+SUCCESS    | 07/03/2025, 11:12:16 | [2m[src\connection\client\index.ts][22m          | 🟢 Connected to socket client
+SUCCESS    | 07/03/2025, 11:12:17 | [2m[src\bowtz\Message.ts][22m                    | 🟢 Match label - Tiempo: 406ms
+SUCCESS    | 07/03/2025, 11:12:40 | [2m[src\index.ts][22m                            | 📡 Server running at http://192.168.0.138:3000/
+SUCCESS    | 07/03/2025, 11:12:41 | [2m[src\connection\client\index.ts][22m          | 🟢 Connected to socket client
+SUCCESS    | 07/03/2025, 11:12:45 | [2m[src\index.ts][22m                            | 📡 Server running at http://192.168.0.138:3000/
+SUCCESS    | 07/03/2025, 11:12:45 | [2m[src\connection\client\index.ts][22m          | 🟢 Connected to socket client
+SUCCESS    | 07/03/2025, 11:12:48 | [2m[src\index.ts][22m                            | 📡 Server running at http://192.168.0.138:3000/
+SUCCESS    | 07/03/2025, 11:12:48 | [2m[src\connection\client\index.ts][22m          | 🟢 Connected to socket client
+SUCCESS    | 07/03/2025, 11:32:16 | [2m[src\index.ts][22m                            | 📡 Server running at http://192.168.0.138:3000/
+SUCCESS    | 07/03/2025, 11:32:16 | [2m[src\connection\client\index.ts][22m          | 🟢 Connected to socket client
+SUCCESS    | 07/03/2025, 11:34:10 | [2m[src\index.ts][22m                            | 📡 Server running at http://192.168.0.138:3000/
+SUCCESS    | 07/03/2025, 11:34:10 | [2m[src\connection\client\index.ts][22m          | 🟢 Connected to socket client
+SUCCESS    | 07/03/2025, 11:36:26 | [2m[src\index.ts][22m                            | 📡 Server running at http://192.168.0.138:3000/
+SUCCESS    | 07/03/2025, 11:36:27 | [2m[src\connection\client\index.ts][22m          | 🟢 Connected to socket client
+SUCCESS    | 07/03/2025, 11:37:04 | [2m[src\bowtz\Message.ts][22m                    | 🟢 Match label - Tiempo: 37754ms
+SUCCESS    | 07/03/2025, 11:37:23 | [2m[src\index.ts][22m                            | 📡 Server running at http://192.168.0.138:3000/
+SUCCESS    | 07/03/2025, 11:37:23 | [2m[src\connection\client\index.ts][22m          | 🟢 Connected to socket client
+SUCCESS    | 07/03/2025, 11:38:14 | [2m[src\bowtz\Message.ts][22m                    | 🟢 Match label - Tiempo: 51108ms
+SUCCESS    | 07/03/2025, 11:38:43 | [2m[src\bowtz\Message.ts][22m                    | 🟢 Match label - Tiempo: 79778ms
+SUCCESS    | 07/03/2025, 11:39:12 | [2m[src\vusion\Message.ts][22m                   | 🟢 Match label - Tiempo: 108656ms
+SUCCESS    | 07/03/2025, 11:39:12 | [2m[src\vusion\Message.ts][22m                   | 🟢 Match label - Tiempo: 108661ms
+SUCCESS    | 07/03/2025, 11:39:12 | [2m[src\vusion\Message.ts][22m                   | 🟢 Match label - Tiempo: 108657ms
+SUCCESS    | 07/03/2025, 11:39:12 | [2m[src\vusion\Message.ts][22m                   | 🟢 Match label - Tiempo: 108662ms
+SUCCESS    | 07/03/2025, 11:39:12 | [2m[src\vusion\Message.ts][22m                   | 🟢 Match label - Tiempo: 108659ms
+SUCCESS    | 07/03/2025, 11:41:08 | [2m[src\bowtz\Message.ts][22m                    | 🟢 Match label - Tiempo: 44171ms
+SUCCESS    | 07/03/2025, 11:41:08 | [2m[src\bowtz\Message.ts][22m                    | 🟢 Match label - Tiempo: 44179ms
+SUCCESS    | 07/03/2025, 11:41:11 | [2m[src\vusion\Message.ts][22m                   | 🟢 Match label - Tiempo: 227431ms
+SUCCESS    | 07/03/2025, 11:41:11 | [2m[src\vusion\Message.ts][22m                   | 🟢 Match label - Tiempo: 227432ms
+SUCCESS    | 07/03/2025, 11:41:11 | [2m[src\vusion\Message.ts][22m                   | 🟢 Match label - Tiempo: 227433ms
+SUCCESS    | 07/03/2025, 11:41:11 | [2m[src\vusion\Message.ts][22m                   | 🟢 Match label - Tiempo: 227434ms
+SUCCESS    | 07/03/2025, 11:41:39 | [2m[src\vusion\Message.ts][22m                   | 🟢 Match label - Tiempo: 75813ms
+SUCCESS    | 07/03/2025, 11:42:56 | [2m[src\vusion\Message.ts][22m                   | 🟢 Match label - Tiempo: 152653ms
+SUCCESS    | 07/03/2025, 11:42:56 | [2m[src\vusion\Message.ts][22m                   | 🟢 Match label - Tiempo: 152654ms
+SUCCESS    | 07/03/2025, 11:42:56 | [2m[src\vusion\Message.ts][22m                   | 🟢 Match label - Tiempo: 152656ms
+SUCCESS    | 07/03/2025, 11:42:56 | [2m[src\vusion\Message.ts][22m                   | 🟢 Match label - Tiempo: 152655ms
+SUCCESS    | 07/03/2025, 11:43:26 | [2m[src\vusion\Message.ts][22m                   | 🟢 Match label - Tiempo: 182520ms
+SUCCESS    | 07/03/2025, 11:53:31 | [2m[src\index.ts][22m                            | 📡 Server running at http://192.168.0.138:3000/
+SUCCESS    | 07/03/2025, 11:53:32 | [2m[src\connection\client\index.ts][22m          | 🟢 Connected to socket client
+SUCCESS    | 07/03/2025, 11:54:03 | [2m[src\bowtz\Message.ts][22m                    | 🟢 Match label - Tiempo: 31556ms
+SUCCESS    | 07/03/2025, 11:54:03 | [2m[src\bowtz\Message.ts][22m                    | 🟢 Match label - Tiempo: 31572ms
+SUCCESS    | 07/03/2025, 11:54:03 | [2m[src\bowtz\Message.ts][22m                    | 🟢 Match label - Tiempo: 31586ms
+SUCCESS    | 07/03/2025, 11:54:17 | [2m[src\bowtz\Message.ts][22m                    | 🟢 Match label - Tiempo: 45938ms
+SUCCESS    | 07/03/2025, 11:54:32 | [2m[src\bowtz\Message.ts][22m                    | 🟢 Match label - Tiempo: 60285ms
+SUCCESS    | 07/03/2025, 11:55:53 | [2m[src\vusion\Message.ts][22m                   | 🟢 Match label - Tiempo: 141908ms
+SUCCESS    | 07/03/2025, 11:55:53 | [2m[src\vusion\Message.ts][22m                   | 🟢 Match label - Tiempo: 141910ms
+SUCCESS    | 07/03/2025, 11:55:53 | [2m[src\vusion\Message.ts][22m                   | 🟢 Match label - Tiempo: 141910ms
+SUCCESS    | 07/03/2025, 11:55:53 | [2m[src\vusion\Message.ts][22m                   | 🟢 Match label - Tiempo: 141911ms
+SUCCESS    | 07/03/2025, 11:55:53 | [2m[src\vusion\Message.ts][22m                   | 🟢 Match label - Tiempo: 141912ms
+SUCCESS    | 07/03/2025, 11:57:04 | [2m[src\bowtz\Message.ts][22m                    | 🟢 Match label - Tiempo: 32738ms
+SUCCESS    | 07/03/2025, 11:57:04 | [2m[src\bowtz\Message.ts][22m                    | 🟢 Match label - Tiempo: 32748ms
+SUCCESS    | 07/03/2025, 11:57:04 | [2m[src\bowtz\Message.ts][22m                    | 🟢 Match label - Tiempo: 32760ms
+SUCCESS    | 07/03/2025, 11:57:26 | [2m[src\bowtz\Message.ts][22m                    | 🟢 Match label - Tiempo: 54224ms
+SUCCESS    | 07/03/2025, 11:57:26 | [2m[src\bowtz\Message.ts][22m                    | 🟢 Match label - Tiempo: 54232ms
+SUCCESS    | 07/03/2025, 11:58:10 | [2m[src\vusion\Message.ts][22m                   | 🟢 Match label - Tiempo: 98525ms
+SUCCESS    | 07/03/2025, 11:58:11 | [2m[src\vusion\Message.ts][22m                   | 🟢 Match label - Tiempo: 279547ms
+SUCCESS    | 07/03/2025, 11:58:11 | [2m[src\vusion\Message.ts][22m                   | 🟢 Match label - Tiempo: 279548ms
+SUCCESS    | 07/03/2025, 11:58:11 | [2m[src\vusion\Message.ts][22m                   | 🟢 Match label - Tiempo: 279548ms
+SUCCESS    | 07/03/2025, 11:58:11 | [2m[src\vusion\Message.ts][22m                   | 🟢 Match label - Tiempo: 279549ms
+SUCCESS    | 07/03/2025, 12:00:05 | [2m[src\bowtz\Message.ts][22m                    | 🟢 Match label - Tiempo: 33818ms
+SUCCESS    | 07/03/2025, 12:00:20 | [2m[src\bowtz\Message.ts][22m                    | 🟢 Match label - Tiempo: 48061ms
+SUCCESS    | 07/03/2025, 12:00:34 | [2m[src\bowtz\Message.ts][22m                    | 🟢 Match label - Tiempo: 62409ms
+SUCCESS    | 07/03/2025, 12:00:48 | [2m[src\bowtz\Message.ts][22m                    | 🟢 Match label - Tiempo: 76806ms
+SUCCESS    | 07/03/2025, 12:01:18 | [2m[src\vusion\Message.ts][22m                   | 🟢 Match label - Tiempo: 286460ms
+SUCCESS    | 07/03/2025, 12:01:18 | [2m[src\vusion\Message.ts][22m                   | 🟢 Match label - Tiempo: 286461ms
+SUCCESS    | 07/03/2025, 12:01:18 | [2m[src\vusion\Message.ts][22m                   | 🟢 Match label - Tiempo: 286462ms
+SUCCESS    | 07/03/2025, 12:01:18 | [2m[src\vusion\Message.ts][22m                   | 🟢 Match label - Tiempo: 286463ms
+SUCCESS    | 07/03/2025, 12:01:18 | [2m[src\vusion\Message.ts][22m                   | 🟢 Match label - Tiempo: 286463ms
+SUCCESS    | 07/03/2025, 12:03:46 | [2m[src\index.ts][22m                            | 📡 Server running at http://192.168.0.138:3000/
+SUCCESS    | 07/03/2025, 12:03:46 | [2m[src\connection\client\index.ts][22m          | 🟢 Connected to socket client
+SUCCESS    | 07/03/2025, 12:04:19 | [2m[src\bowtz\Message.ts][22m                    | 🟢 Match label - Tiempo: 33548ms
+SUCCESS    | 07/03/2025, 12:06:12 | [2m[src\index.ts][22m                            | 📡 Server running at http://192.168.0.138:3000/
+SUCCESS    | 07/03/2025, 12:06:12 | [2m[src\connection\client\index.ts][22m          | 🟢 Connected to socket client
+SUCCESS    | 07/03/2025, 12:07:01 | [2m[src\bowtz\Message.ts][22m                    | 🟢 Match label - Tiempo: 48899ms
+SUCCESS    | 07/03/2025, 12:07:31 | [2m[src\index.ts][22m                            | 📡 Server running at http://192.168.0.138:3000/
+SUCCESS    | 07/03/2025, 12:07:31 | [2m[src\connection\client\index.ts][22m          | 🟢 Connected to socket client
+SUCCESS    | 07/03/2025, 12:08:17 | [2m[src\index.ts][22m                            | 📡 Server running at http://192.168.0.138:3000/
+SUCCESS    | 07/03/2025, 12:08:18 | [2m[src\connection\client\index.ts][22m          | 🟢 Connected to socket client
+SUCCESS    | 07/03/2025, 12:09:03 | [2m[src\index.ts][22m                            | 📡 Server running at http://192.168.0.138:3000/
+SUCCESS    | 07/03/2025, 12:09:03 | [2m[src\connection\client\index.ts][22m          | 🟢 Connected to socket client
+SUCCESS    | 07/03/2025, 12:14:38 | [2m[src\index.ts][22m                            | 📡 Server running at http://192.168.0.138:3000/
+SUCCESS    | 07/03/2025, 12:14:38 | [2m[src\connection\client\index.ts][22m          | 🟢 Connected to socket client
+SUCCESS    | 07/03/2025, 12:15:15 | [2m[src\bowtz\Message.ts][22m                    | 🟢 Match label - Tiempo: 36921ms
+SUCCESS    | 07/03/2025, 12:17:24 | [2m[src\index.ts][22m                            | 📡 Server running at http://192.168.0.138:3000/
+SUCCESS    | 07/03/2025, 12:17:24 | [2m[src\connection\client\index.ts][22m          | 🟢 Connected to socket client
+SUCCESS    | 07/03/2025, 12:18:23 | [2m[src\index.ts][22m                            | 📡 Server running at http://192.168.0.138:3000/
+SUCCESS    | 07/03/2025, 12:18:23 | [2m[src\connection\client\index.ts][22m          | 🟢 Connected to socket client
+SUCCESS    | 07/03/2025, 12:18:50 | [2m[src\bowtz\Message.ts][22m                    | 🟢 Match label - Tiempo: 26297ms
+SUCCESS    | 07/03/2025, 12:19:41 | [2m[src\index.ts][22m                            | 📡 Server running at http://192.168.0.138:3000/
+SUCCESS    | 07/03/2025, 12:19:41 | [2m[src\connection\client\index.ts][22m          | 🟢 Connected to socket client
+SUCCESS    | 07/03/2025, 12:20:05 | [2m[src\bowtz\Message.ts][22m                    | 🟢 Match label - Tiempo: 24095ms
+SUCCESS    | 07/03/2025, 12:20:19 | [2m[src\bowtz\Message.ts][22m                    | 🟢 Match label - Tiempo: 38406ms
+SUCCESS    | 07/03/2025, 12:20:19 | [2m[src\bowtz\Message.ts][22m                    | 🟢 Match label - Tiempo: 38422ms
+SUCCESS    | 07/03/2025, 12:20:19 | [2m[src\bowtz\Message.ts][22m                    | 🟢 Match label - Tiempo: 38434ms
+SUCCESS    | 07/03/2025, 12:20:19 | [2m[src\bowtz\Message.ts][22m                    | 🟢 Match label - Tiempo: 38447ms
+SUCCESS    | 07/03/2025, 12:21:44 | [2m[src\vusion\Message.ts][22m                   | 🟢 Match label - Tiempo: 123400ms
+SUCCESS    | 07/03/2025, 12:21:44 | [2m[src\vusion\Message.ts][22m                   | 🟢 Match label - Tiempo: 123402ms
+SUCCESS    | 07/03/2025, 12:21:44 | [2m[src\vusion\Message.ts][22m                   | 🟢 Match label - Tiempo: 123403ms
+SUCCESS    | 07/03/2025, 12:21:44 | [2m[src\vusion\Message.ts][22m                   | 🟢 Match label - Tiempo: 123404ms
+SUCCESS    | 07/03/2025, 12:21:44 | [2m[src\vusion\Message.ts][22m                   | 🟢 Match label - Tiempo: 123405ms
+SUCCESS    | 07/03/2025, 12:23:14 | [2m[src\bowtz\Message.ts][22m                    | 🟢 Match label - Tiempo: 33286ms
+SUCCESS    | 07/03/2025, 12:23:14 | [2m[src\bowtz\Message.ts][22m                    | 🟢 Match label - Tiempo: 33306ms
+SUCCESS    | 07/03/2025, 12:23:14 | [2m[src\bowtz\Message.ts][22m                    | 🟢 Match label - Tiempo: 33310ms
+SUCCESS    | 07/03/2025, 12:23:29 | [2m[src\bowtz\Message.ts][22m                    | 🟢 Match label - Tiempo: 47711ms
+SUCCESS    | 07/03/2025, 12:23:57 | [2m[src\bowtz\Message.ts][22m                    | 🟢 Match label - Tiempo: 76308ms
+SUCCESS    | 07/03/2025, 12:24:09 | [2m[src\vusion\Message.ts][22m                   | 🟢 Match label - Tiempo: 88326ms
+SUCCESS    | 07/03/2025, 12:24:47 | [2m[src\vusion\Message.ts][22m                   | 🟢 Match label - Tiempo: 305927ms
+SUCCESS    | 07/03/2025, 12:24:47 | [2m[src\vusion\Message.ts][22m                   | 🟢 Match label - Tiempo: 305928ms
+SUCCESS    | 07/03/2025, 12:24:47 | [2m[src\vusion\Message.ts][22m                   | 🟢 Match label - Tiempo: 305930ms
+SUCCESS    | 07/03/2025, 12:24:47 | [2m[src\vusion\Message.ts][22m                   | 🟢 Match label - Tiempo: 305931ms
+SUCCESS    | 07/03/2025, 12:26:10 | [2m[src\bowtz\Message.ts][22m                    | 🟢 Match label - Tiempo: 28765ms
+SUCCESS    | 07/03/2025, 12:26:24 | [2m[src\bowtz\Message.ts][22m                    | 🟢 Match label - Tiempo: 43168ms
+SUCCESS    | 07/03/2025, 12:26:24 | [2m[src\bowtz\Message.ts][22m                    | 🟢 Match label - Tiempo: 43181ms
+SUCCESS    | 07/03/2025, 12:26:24 | [2m[src\bowtz\Message.ts][22m                    | 🟢 Match label - Tiempo: 43199ms
+SUCCESS    | 07/03/2025, 12:26:24 | [2m[src\bowtz\Message.ts][22m                    | 🟢 Match label - Tiempo: 43210ms
+SUCCESS    | 07/03/2025, 12:27:17 | [2m[src\vusion\Message.ts][22m                   | 🟢 Match label - Tiempo: 275865ms
+SUCCESS    | 07/03/2025, 12:27:17 | [2m[src\vusion\Message.ts][22m                   | 🟢 Match label - Tiempo: 275867ms
+SUCCESS    | 07/03/2025, 12:27:17 | [2m[src\vusion\Message.ts][22m                   | 🟢 Match label - Tiempo: 275867ms
+SUCCESS    | 07/03/2025, 12:27:17 | [2m[src\vusion\Message.ts][22m                   | 🟢 Match label - Tiempo: 275868ms
+SUCCESS    | 07/03/2025, 12:28:56 | [2m[src\vusion\Message.ts][22m                   | 🟢 Match label - Tiempo: 375180ms
+SUCCESS    | 07/03/2025, 12:29:20 | [2m[src\bowtz\Message.ts][22m                    | 🟢 Match label - Tiempo: 38624ms
+SUCCESS    | 07/03/2025, 12:29:20 | [2m[src\bowtz\Message.ts][22m                    | 🟢 Match label - Tiempo: 38659ms
+SUCCESS    | 07/03/2025, 12:29:20 | [2m[src\bowtz\Message.ts][22m                    | 🟢 Match label - Tiempo: 38678ms
+SUCCESS    | 07/03/2025, 12:29:34 | [2m[src\bowtz\Message.ts][22m                    | 🟢 Match label - Tiempo: 52931ms
+SUCCESS    | 07/03/2025, 12:30:03 | [2m[src\bowtz\Message.ts][22m                    | 🟢 Match label - Tiempo: 81558ms
+SUCCESS    | 07/03/2025, 12:30:16 | [2m[src\vusion\Message.ts][22m                   | 🟢 Match label - Tiempo: 454977ms
+SUCCESS    | 07/03/2025, 12:30:16 | [2m[src\vusion\Message.ts][22m                   | 🟢 Match label - Tiempo: 454978ms
+SUCCESS    | 07/03/2025, 12:30:16 | [2m[src\vusion\Message.ts][22m                   | 🟢 Match label - Tiempo: 274973ms
+SUCCESS    | 07/03/2025, 12:30:16 | [2m[src\vusion\Message.ts][22m                   | 🟢 Match label - Tiempo: 454979ms
+SUCCESS    | 07/03/2025, 12:30:43 | [2m[src\vusion\Message.ts][22m                   | 🟢 Match label - Tiempo: 302235ms
+SUCCESS    | 07/03/2025, 12:32:08 | [2m[src\bowtz\Message.ts][22m                    | 🟢 Match label - Tiempo: 27069ms
+SUCCESS    | 07/03/2025, 12:32:31 | [2m[src\bowtz\Message.ts][22m                    | 🟢 Match label - Tiempo: 49509ms
+SUCCESS    | 07/03/2025, 12:32:31 | [2m[src\bowtz\Message.ts][22m                    | 🟢 Match label - Tiempo: 49519ms
+SUCCESS    | 07/03/2025, 12:32:31 | [2m[src\bowtz\Message.ts][22m                    | 🟢 Match label - Tiempo: 49527ms
+SUCCESS    | 07/03/2025, 12:32:31 | [2m[src\bowtz\Message.ts][22m                    | 🟢 Match label - Tiempo: 49563ms
+SUCCESS    | 07/03/2025, 12:32:35 | [2m[src\vusion\Message.ts][22m                   | 🟢 Match label - Tiempo: 413871ms
+SUCCESS    | 07/03/2025, 12:33:00 | [2m[src\vusion\Message.ts][22m                   | 🟢 Match label - Tiempo: 438809ms
+SUCCESS    | 07/03/2025, 12:33:00 | [2m[src\vusion\Message.ts][22m                   | 🟢 Match label - Tiempo: 438810ms
+SUCCESS    | 07/03/2025, 12:33:00 | [2m[src\vusion\Message.ts][22m                   | 🟢 Match label - Tiempo: 438811ms
+SUCCESS    | 07/03/2025, 12:33:00 | [2m[src\vusion\Message.ts][22m                   | 🟢 Match label - Tiempo: 438810ms
+SUCCESS    | 07/03/2025, 12:34:11 | [2m[src\vusion\Message.ts][22m                   | 🟢 Match label - Tiempo: 509595ms
+SUCCESS    | 07/03/2025, 12:35:10 | [2m[src\vusion\Message.ts][22m                   | 🟢 Match label - Tiempo: 568962ms
+SUCCESS    | 07/03/2025, 12:35:10 | [2m[src\vusion\Message.ts][22m                   | 🟢 Match label - Tiempo: 388963ms
+SUCCESS    | 07/03/2025, 12:35:10 | [2m[src\vusion\Message.ts][22m                   | 🟢 Match label - Tiempo: 388964ms
+SUCCESS    | 07/03/2025, 12:35:10 | [2m[src\vusion\Message.ts][22m                   | 🟢 Match label - Tiempo: 388965ms
+SUCCESS    | 07/03/2025, 12:35:12 | [2m[src\bowtz\Message.ts][22m                    | 🟢 Match label - Tiempo: 30638ms
+SUCCESS    | 07/03/2025, 12:35:12 | [2m[src\bowtz\Message.ts][22m                    | 🟢 Match label - Tiempo: 30649ms
+SUCCESS    | 07/03/2025, 12:35:26 | [2m[src\bowtz\Message.ts][22m                    | 🟢 Match label - Tiempo: 44981ms
+SUCCESS    | 07/03/2025, 12:35:26 | [2m[src\bowtz\Message.ts][22m                    | 🟢 Match label - Tiempo: 45004ms
+SUCCESS    | 07/03/2025, 12:35:26 | [2m[src\bowtz\Message.ts][22m                    | 🟢 Match label - Tiempo: 45037ms
+SUCCESS    | 07/03/2025, 12:35:41 | [2m[src\vusion\Message.ts][22m                   | 🟢 Match label - Tiempo: 420375ms
+SUCCESS    | 07/03/2025, 12:36:37 | [2m[src\vusion\Message.ts][22m                   | 🟢 Match label - Tiempo: 476297ms
+SUCCESS    | 07/03/2025, 12:36:37 | [2m[src\vusion\Message.ts][22m                   | 🟢 Match label - Tiempo: 476298ms
+SUCCESS    | 07/03/2025, 12:36:37 | [2m[src\vusion\Message.ts][22m                   | 🟢 Match label - Tiempo: 476299ms
+SUCCESS    | 07/03/2025, 12:36:37 | [2m[src\vusion\Message.ts][22m                   | 🟢 Match label - Tiempo: 476301ms
+SUCCESS    | 07/03/2025, 12:37:59 | [2m[src\vusion\Message.ts][22m                   | 🟢 Match label - Tiempo: 558050ms
+SUCCESS    | 07/03/2025, 12:38:07 | [2m[src\bowtz\Message.ts][22m                    | 🟢 Match label - Tiempo: 26070ms
+SUCCESS    | 07/03/2025, 12:38:07 | [2m[src\bowtz\Message.ts][22m                    | 🟢 Match label - Tiempo: 26141ms
+SUCCESS    | 07/03/2025, 12:38:07 | [2m[src\bowtz\Message.ts][22m                    | 🟢 Match label - Tiempo: 26141ms
+SUCCESS    | 07/03/2025, 12:38:21 | [2m[src\bowtz\Message.ts][22m                    | 🟢 Match label - Tiempo: 40415ms
+SUCCESS    | 07/03/2025, 12:38:22 | [2m[src\bowtz\Message.ts][22m                    | 🟢 Match label - Tiempo: 40422ms
+SUCCESS    | 07/03/2025, 12:38:27 | [2m[src\index.ts][22m                            | 📡 Server running at http://192.168.0.138:3000/
+SUCCESS    | 07/03/2025, 12:38:48 | [2m[src\index.ts][22m                            | 📡 Server running at http://192.168.0.138:3000/
+SUCCESS    | 07/03/2025, 12:38:51 | [2m[src\index.ts][22m                            | 📡 Server running at http://192.168.0.138:3000/
+SUCCESS    | 07/03/2025, 12:38:51 | [2m[src\connection\client\index.ts][22m          | 🟢 Connected to socket client
+SUCCESS    | 07/03/2025, 12:39:00 | [2m[src\index.ts][22m                            | 📡 Server running at http://192.168.0.138:3000/
+SUCCESS    | 07/03/2025, 12:39:00 | [2m[src\connection\client\index.ts][22m          | 🟢 Connected to socket client
+SUCCESS    | 07/03/2025, 12:40:21 | [2m[src\bowtz\Message.ts][22m                    | 🟢 Match label - Tiempo: 81211ms
+SUCCESS    | 07/03/2025, 12:42:45 | [2m[src\bowtz\Message.ts][22m                    | 🟢 Match label - Tiempo: 44917ms
+SUCCESS    | 07/03/2025, 12:45:23 | [2m[src\bowtz\Message.ts][22m                    | 🟢 Match label - Tiempo: 23045ms
+SUCCESS    | 07/03/2025, 12:48:52 | [2m[src\index.ts][22m                            | 📡 Server running at http://192.168.0.138:3000/
+SUCCESS    | 07/03/2025, 12:48:52 | [2m[src\connection\client\index.ts][22m          | 🟢 Connected to socket client
+SUCCESS    | 07/03/2025, 12:49:29 | [2m[src\bowtz\Message.ts][22m                    | 🟢 Match label - Tiempo: 36938ms
+SUCCESS    | 07/03/2025, 12:49:29 | [2m[src\bowtz\Message.ts][22m                    | 🟢 Match label - Tiempo: 36974ms
+SUCCESS    | 07/03/2025, 12:49:29 | [2m[src\bowtz\Message.ts][22m                    | 🟢 Match label - Tiempo: 37007ms
+SUCCESS    | 07/03/2025, 12:50:12 | [2m[src\bowtz\Message.ts][22m                    | 🟢 Match label - Tiempo: 79847ms
+SUCCESS    | 07/03/2025, 12:52:23 | [2m[src\bowtz\Message.ts][22m                    | 🟢 Match label - Tiempo: 31503ms
+SUCCESS    | 07/03/2025, 12:52:38 | [2m[src\bowtz\Message.ts][22m                    | 🟢 Match label - Tiempo: 45884ms
+SUCCESS    | 07/03/2025, 12:52:38 | [2m[src\bowtz\Message.ts][22m                    | 🟢 Match label - Tiempo: 45905ms
+SUCCESS    | 07/03/2025, 12:52:52 | [2m[src\bowtz\Message.ts][22m                    | 🟢 Match label - Tiempo: 60267ms
+SUCCESS    | 07/03/2025, 12:54:20 | [2m[src\index.ts][22m                            | 📡 Server running at http://192.168.0.138:3000/
+SUCCESS    | 07/03/2025, 12:54:20 | [2m[src\connection\client\index.ts][22m          | 🟢 Connected to socket client
+SUCCESS    | 07/03/2025, 12:54:50 | [2m[src\bowtz\Message.ts][22m                    | 🟢 Match label - Tiempo: 29520ms
+SUCCESS    | 07/03/2025, 12:55:04 | [2m[src\bowtz\Message.ts][22m                    | 🟢 Match label - Tiempo: 43826ms
+SUCCESS    | 07/03/2025, 12:55:04 | [2m[src\bowtz\Message.ts][22m                    | 🟢 Match label - Tiempo: 43827ms
+SUCCESS    | 07/03/2025, 12:55:04 | [2m[src\bowtz\Message.ts][22m                    | 🟢 Match label - Tiempo: 43828ms
+SUCCESS    | 07/03/2025, 12:56:44 | [2m[src\index.ts][22m                            | 📡 Server running at http://192.168.0.138:3000/
+SUCCESS    | 07/03/2025, 12:56:44 | [2m[src\connection\client\index.ts][22m          | 🟢 Connected to socket client
+SUCCESS    | 07/03/2025, 12:58:49 | [2m[src\index.ts][22m                            | 📡 Server running at http://192.168.0.138:3000/
+SUCCESS    | 07/03/2025, 12:58:49 | [2m[src\connection\client\index.ts][22m          | 🟢 Connected to socket client
+SUCCESS    | 07/03/2025, 12:59:20 | [2m[src\bowtz\Message.ts][22m                    | 🟢 Match label - Tiempo: 31532ms
+SUCCESS    | 07/03/2025, 12:59:42 | [2m[src\bowtz\Message.ts][22m                    | 🟢 Match label - Tiempo: 53038ms
+SUCCESS    | 07/03/2025, 12:59:42 | [2m[src\bowtz\Message.ts][22m                    | 🟢 Match label - Tiempo: 53040ms
+SUCCESS    | 07/03/2025, 13:00:25 | [2m[src\bowtz\Message.ts][22m                    | 🟢 Match label - Tiempo: 95964ms
+SUCCESS    | 07/03/2025, 13:02:22 | [2m[src\bowtz\Message.ts][22m                    | 🟢 Match label - Tiempo: 33455ms
+SUCCESS    | 07/03/2025, 13:02:22 | [2m[src\bowtz\Message.ts][22m                    | 🟢 Match label - Tiempo: 33456ms
+SUCCESS    | 07/03/2025, 13:02:22 | [2m[src\bowtz\Message.ts][22m                    | 🟢 Match label - Tiempo: 33457ms
+SUCCESS    | 07/03/2025, 13:02:36 | [2m[src\bowtz\Message.ts][22m                    | 🟢 Match label - Tiempo: 47758ms
+SUCCESS    | 07/03/2025, 13:05:17 | [2m[src\bowtz\Message.ts][22m                    | 🟢 Match label - Tiempo: 28205ms
+SUCCESS    | 07/03/2025, 13:05:31 | [2m[src\bowtz\Message.ts][22m                    | 🟢 Match label - Tiempo: 42489ms
+SUCCESS    | 07/03/2025, 13:05:45 | [2m[src\bowtz\Message.ts][22m                    | 🟢 Match label - Tiempo: 56792ms
+SUCCESS    | 07/03/2025, 13:05:46 | [2m[src\bowtz\Message.ts][22m                    | 🟢 Match label - Tiempo: 56800ms
+SUCCESS    | 07/03/2025, 13:08:26 | [2m[src\bowtz\Message.ts][22m                    | 🟢 Match label - Tiempo: 37192ms
+SUCCESS    | 07/03/2025, 13:08:26 | [2m[src\bowtz\Message.ts][22m                    | 🟢 Match label - Tiempo: 37207ms
+SUCCESS    | 07/03/2025, 13:08:26 | [2m[src\bowtz\Message.ts][22m                    | 🟢 Match label - Tiempo: 37221ms
+SUCCESS    | 07/03/2025, 13:08:26 | [2m[src\bowtz\Message.ts][22m                    | 🟢 Match label - Tiempo: 37237ms
+SUCCESS    | 07/03/2025, 13:10:01 | [2m[src\bowtz\Message.ts][22m                    | 🟢 Match label - Tiempo: 672656ms
+SUCCESS    | 07/03/2025, 13:10:31 | [2m[src\bowtz\Message.ts][22m                    | 🟢 Match label - Tiempo: 522007ms
+SUCCESS    | 07/03/2025, 13:11:25 | [2m[src\bowtz\Message.ts][22m                    | 🟢 Match label - Tiempo: 36704ms
+SUCCESS    | 07/03/2025, 13:11:25 | [2m[src\bowtz\Message.ts][22m                    | 🟢 Match label - Tiempo: 36711ms
+SUCCESS    | 07/03/2025, 13:11:40 | [2m[src\bowtz\Message.ts][22m                    | 🟢 Match label - Tiempo: 51089ms
+SUCCESS    | 07/03/2025, 13:11:55 | [2m[src\bowtz\Message.ts][22m                    | 🟢 Match label - Tiempo: 66183ms
+SUCCESS    | 07/03/2025, 13:12:09 | [2m[src\bowtz\Message.ts][22m                    | 🟢 Match label - Tiempo: 440519ms
+SUCCESS    | 07/03/2025, 13:12:24 | [2m[src\bowtz\Message.ts][22m                    | 🟢 Match label - Tiempo: 94827ms
+SUCCESS    | 07/03/2025, 13:14:21 | [2m[src\bowtz\Message.ts][22m                    | 🟢 Match label - Tiempo: 32282ms
+SUCCESS    | 07/03/2025, 13:14:21 | [2m[src\bowtz\Message.ts][22m                    | 🟢 Match label - Tiempo: 32298ms
+SUCCESS    | 07/03/2025, 13:14:21 | [2m[src\bowtz\Message.ts][22m                    | 🟢 Match label - Tiempo: 32314ms
+SUCCESS    | 07/03/2025, 13:14:21 | [2m[src\bowtz\Message.ts][22m                    | 🟢 Match label - Tiempo: 32330ms
+SUCCESS    | 07/03/2025, 13:17:16 | [2m[src\bowtz\Message.ts][22m                    | 🟢 Match label - Tiempo: 26847ms
+SUCCESS    | 07/03/2025, 13:17:16 | [2m[src\bowtz\Message.ts][22m                    | 🟢 Match label - Tiempo: 26859ms
+SUCCESS    | 07/03/2025, 13:17:30 | [2m[src\bowtz\Message.ts][22m                    | 🟢 Match label - Tiempo: 41226ms
+SUCCESS    | 07/03/2025, 13:17:30 | [2m[src\bowtz\Message.ts][22m                    | 🟢 Match label - Tiempo: 41242ms
+SUCCESS    | 07/03/2025, 13:18:19 | [2m[src\index.ts][22m                            | 📡 Server running at http://192.168.0.138:3000/
+SUCCESS    | 07/03/2025, 13:18:19 | [2m[src\connection\client\index.ts][22m          | 🟢 Connected to socket client
+SUCCESS    | 07/03/2025, 13:18:35 | [2m[src\index.ts][22m                            | 📡 Server running at http://192.168.0.138:3000/
+SUCCESS    | 07/03/2025, 13:18:35 | [2m[src\connection\client\index.ts][22m          | 🟢 Connected to socket client
+SUCCESS    | 07/03/2025, 13:19:13 | [2m[src\index.ts][22m                            | 📡 Server running at http://192.168.0.138:3000/
+SUCCESS    | 07/03/2025, 13:19:15 | [2m[src\index.ts][22m                            | 📡 Server running at http://192.168.0.138:3000/
+SUCCESS    | 07/03/2025, 13:19:18 | [2m[src\index.ts][22m                            | 📡 Server running at http://192.168.0.138:3000/
+SUCCESS    | 07/03/2025, 13:19:21 | [2m[src\index.ts][22m                            | 📡 Server running at http://192.168.0.138:3000/
+SUCCESS    | 07/03/2025, 13:19:21 | [2m[src\connection\client\index.ts][22m          | 🟢 Connected to socket client
+SUCCESS    | 07/03/2025, 13:19:21 | [2m[src\vusion\Message.ts][22m                   | 🟢 Match label - Tiempo: 179ms
+SUCCESS    | 07/03/2025, 13:19:56 | [2m[src\index.ts][22m                            | 📡 Server running at http://192.168.0.138:3000/
+SUCCESS    | 07/03/2025, 13:21:03 | [2m[src\index.ts][22m                            | 📡 Server running at http://192.168.0.138:3000/
+SUCCESS    | 07/03/2025, 13:21:03 | [2m[src\connection\client\index.ts][22m          | 🟢 Connected to socket client
+SUCCESS    | 07/03/2025, 13:21:03 | [2m[src\vusion\Message.ts][22m                   | 🟢 Match label - Tiempo: 207ms
+SUCCESS    | 07/03/2025, 13:21:03 | [2m[src\vusion\Message.ts][22m                   | 🟢 Match label - Tiempo: 209ms
+SUCCESS    | 07/03/2025, 13:21:03 | [2m[src\vusion\Message.ts][22m                   | 🟢 Match label - Tiempo: 211ms
+SUCCESS    | 07/03/2025, 13:21:03 | [2m[src\vusion\Message.ts][22m                   | 🟢 Match label - Tiempo: 210ms
+SUCCESS    | 07/03/2025, 13:21:03 | [2m[src\vusion\Message.ts][22m                   | 🟢 Match label - Tiempo: 210ms
+SUCCESS    | 07/03/2025, 13:21:03 | [2m[src\vusion\Message.ts][22m                   | 🟢 Match label - Tiempo: 212ms
+SUCCESS    | 07/03/2025, 13:21:03 | [2m[src\vusion\Message.ts][22m                   | 🟢 Match label - Tiempo: 213ms
+SUCCESS    | 07/03/2025, 13:21:03 | [2m[src\vusion\Message.ts][22m                   | 🟢 Match label - Tiempo: 214ms
+SUCCESS    | 07/03/2025, 13:21:03 | [2m[src\vusion\Message.ts][22m                   | 🟢 Match label - Tiempo: 215ms
+SUCCESS    | 07/03/2025, 13:21:36 | [2m[src\bowtz\Message.ts][22m                    | 🟢 Match label - Tiempo: 32856ms
+SUCCESS    | 07/03/2025, 13:21:36 | [2m[src\bowtz\Message.ts][22m                    | 🟢 Match label - Tiempo: 32866ms
+SUCCESS    | 07/03/2025, 13:22:19 | [2m[src\bowtz\Message.ts][22m                    | 🟢 Match label - Tiempo: 75909ms
+SUCCESS    | 07/03/2025, 13:22:19 | [2m[src\bowtz\Message.ts][22m                    | 🟢 Match label - Tiempo: 75915ms
+SUCCESS    | 07/03/2025, 13:24:03 | [2m[src\vusion\Message.ts][22m                   | 🟢 Match label - Tiempo: 45ms
+SUCCESS    | 07/03/2025, 13:24:03 | [2m[src\vusion\Message.ts][22m                   | 🟢 Match label - Tiempo: 52ms
+SUCCESS    | 07/03/2025, 13:24:03 | [2m[src\vusion\Message.ts][22m                   | 🟢 Match label - Tiempo: 52ms
+SUCCESS    | 07/03/2025, 13:24:03 | [2m[src\vusion\Message.ts][22m                   | 🟢 Match label - Tiempo: 54ms
+SUCCESS    | 07/03/2025, 13:24:03 | [2m[src\vusion\Message.ts][22m                   | 🟢 Match label - Tiempo: 53ms
+SUCCESS    | 07/03/2025, 13:24:03 | [2m[src\vusion\Message.ts][22m                   | 🟢 Match label - Tiempo: 56ms
+SUCCESS    | 07/03/2025, 13:24:03 | [2m[src\vusion\Message.ts][22m                   | 🟢 Match label - Tiempo: 55ms
+SUCCESS    | 07/03/2025, 13:24:03 | [2m[src\vusion\Message.ts][22m                   | 🟢 Match label - Tiempo: 57ms
+SUCCESS    | 07/03/2025, 13:24:03 | [2m[src\vusion\Message.ts][22m                   | 🟢 Match label - Tiempo: 58ms
+SUCCESS    | 07/03/2025, 13:24:31 | [2m[src\bowtz\Message.ts][22m                    | 🟢 Match label - Tiempo: 27718ms
+SUCCESS    | 07/03/2025, 13:24:31 | [2m[src\bowtz\Message.ts][22m                    | 🟢 Match label - Tiempo: 27725ms
+SUCCESS    | 07/03/2025, 13:24:45 | [2m[src\bowtz\Message.ts][22m                    | 🟢 Match label - Tiempo: 42058ms
+SUCCESS    | 07/03/2025, 13:24:45 | [2m[src\bowtz\Message.ts][22m                    | 🟢 Match label - Tiempo: 42073ms
+SUCCESS    | 07/03/2025, 13:27:03 | [2m[src\vusion\Message.ts][22m                   | 🟢 Match label - Tiempo: 50ms
+SUCCESS    | 07/03/2025, 13:27:03 | [2m[src\vusion\Message.ts][22m                   | 🟢 Match label - Tiempo: 52ms
+SUCCESS    | 07/03/2025, 13:27:03 | [2m[src\vusion\Message.ts][22m                   | 🟢 Match label - Tiempo: 53ms
+SUCCESS    | 07/03/2025, 13:27:03 | [2m[src\vusion\Message.ts][22m                   | 🟢 Match label - Tiempo: 53ms
+SUCCESS    | 07/03/2025, 13:27:03 | [2m[src\vusion\Message.ts][22m                   | 🟢 Match label - Tiempo: 55ms
+SUCCESS    | 07/03/2025, 13:27:03 | [2m[src\vusion\Message.ts][22m                   | 🟢 Match label - Tiempo: 55ms
+SUCCESS    | 07/03/2025, 13:27:03 | [2m[src\vusion\Message.ts][22m                   | 🟢 Match label - Tiempo: 54ms
+SUCCESS    | 07/03/2025, 13:27:03 | [2m[src\vusion\Message.ts][22m                   | 🟢 Match label - Tiempo: 56ms
+SUCCESS    | 07/03/2025, 13:27:03 | [2m[src\vusion\Message.ts][22m                   | 🟢 Match label - Tiempo: 57ms
+SUCCESS    | 07/03/2025, 13:27:15 | [2m[src\index.ts][22m                            | 📡 Server running at http://192.168.0.138:3000/
+SUCCESS    | 07/03/2025, 13:27:15 | [2m[src\connection\client\index.ts][22m          | 🟢 Connected to socket client
+SUCCESS    | 07/03/2025, 13:27:15 | [2m[src\vusion\Message.ts][22m                   | 🟢 Match label - Tiempo: 176ms
+SUCCESS    | 07/03/2025, 13:27:15 | [2m[src\vusion\Message.ts][22m                   | 🟢 Match label - Tiempo: 186ms
+SUCCESS    | 07/03/2025, 13:27:15 | [2m[src\vusion\Message.ts][22m                   | 🟢 Match label - Tiempo: 189ms
+SUCCESS    | 07/03/2025, 13:27:15 | [2m[src\vusion\Message.ts][22m                   | 🟢 Match label - Tiempo: 189ms
+SUCCESS    | 07/03/2025, 13:27:15 | [2m[src\vusion\Message.ts][22m                   | 🟢 Match label - Tiempo: 190ms
+SUCCESS    | 07/03/2025, 13:27:15 | [2m[src\vusion\Message.ts][22m                   | 🟢 Match label - Tiempo: 190ms
+SUCCESS    | 07/03/2025, 13:27:15 | [2m[src\vusion\Message.ts][22m                   | 🟢 Match label - Tiempo: 191ms
+SUCCESS    | 07/03/2025, 13:27:15 | [2m[src\vusion\Message.ts][22m                   | 🟢 Match label - Tiempo: 192ms
+SUCCESS    | 07/03/2025, 13:27:15 | [2m[src\vusion\Message.ts][22m                   | 🟢 Match label - Tiempo: 192ms
+SUCCESS    | 07/03/2025, 13:27:40 | [2m[src\index.ts][22m                            | 📡 Server running at http://192.168.0.138:3000/
+SUCCESS    | 07/03/2025, 13:27:40 | [2m[src\connection\client\index.ts][22m          | 🟢 Connected to socket client
+SUCCESS    | 07/03/2025, 13:27:40 | [2m[src\vusion\Message.ts][22m                   | 🟢 Match label - Tiempo: 176ms
+SUCCESS    | 07/03/2025, 13:27:40 | [2m[src\vusion\Message.ts][22m                   | 🟢 Match label - Tiempo: 185ms
+SUCCESS    | 07/03/2025, 13:27:40 | [2m[src\vusion\Message.ts][22m                   | 🟢 Match label - Tiempo: 187ms
+SUCCESS    | 07/03/2025, 13:27:40 | [2m[src\vusion\Message.ts][22m                   | 🟢 Match label - Tiempo: 186ms
+SUCCESS    | 07/03/2025, 13:27:40 | [2m[src\vusion\Message.ts][22m                   | 🟢 Match label - Tiempo: 190ms
+SUCCESS    | 07/03/2025, 13:27:40 | [2m[src\vusion\Message.ts][22m                   | 🟢 Match label - Tiempo: 192ms
+SUCCESS    | 07/03/2025, 13:27:40 | [2m[src\vusion\Message.ts][22m                   | 🟢 Match label - Tiempo: 192ms
+SUCCESS    | 07/03/2025, 13:27:40 | [2m[src\vusion\Message.ts][22m                   | 🟢 Match label - Tiempo: 194ms
+SUCCESS    | 07/03/2025, 13:27:40 | [2m[src\vusion\Message.ts][22m                   | 🟢 Match label - Tiempo: 195ms
+SUCCESS    | 07/03/2025, 13:29:54 | [2m[src\bowtz\Message.ts][22m                    | 🟢 Match label - Tiempo: 133495ms
+SUCCESS    | 07/03/2025, 13:29:54 | [2m[src\bowtz\Message.ts][22m                    | 🟢 Match label - Tiempo: 133503ms
+SUCCESS    | 07/03/2025, 13:30:40 | [2m[src\vusion\Message.ts][22m                   | 🟢 Match label - Tiempo: 42ms
+SUCCESS    | 07/03/2025, 13:30:40 | [2m[src\vusion\Message.ts][22m                   | 🟢 Match label - Tiempo: 52ms
+SUCCESS    | 07/03/2025, 13:30:40 | [2m[src\vusion\Message.ts][22m                   | 🟢 Match label - Tiempo: 53ms
+SUCCESS    | 07/03/2025, 13:30:40 | [2m[src\vusion\Message.ts][22m                   | 🟢 Match label - Tiempo: 54ms
+SUCCESS    | 07/03/2025, 13:30:40 | [2m[src\vusion\Message.ts][22m                   | 🟢 Match label - Tiempo: 55ms
+SUCCESS    | 07/03/2025, 13:30:40 | [2m[src\vusion\Message.ts][22m                   | 🟢 Match label - Tiempo: 56ms
+SUCCESS    | 07/03/2025, 13:30:40 | [2m[src\vusion\Message.ts][22m                   | 🟢 Match label - Tiempo: 58ms
+SUCCESS    | 07/03/2025, 13:30:40 | [2m[src\vusion\Message.ts][22m                   | 🟢 Match label - Tiempo: 59ms
+SUCCESS    | 07/03/2025, 13:30:40 | [2m[src\vusion\Message.ts][22m                   | 🟢 Match label - Tiempo: 60ms
+SUCCESS    | 07/03/2025, 13:31:23 | [2m[src\bowtz\Message.ts][22m                    | 🟢 Match label - Tiempo: 42577ms
+SUCCESS    | 07/03/2025, 13:31:37 | [2m[src\bowtz\Message.ts][22m                    | 🟢 Match label - Tiempo: 56866ms
+SUCCESS    | 07/03/2025, 13:31:37 | [2m[src\bowtz\Message.ts][22m                    | 🟢 Match label - Tiempo: 236887ms
+SUCCESS    | 07/03/2025, 13:31:47 | [2m[src\index.ts][22m                            | 📡 Server running at http://192.168.0.138:3000/
+SUCCESS    | 07/03/2025, 13:31:50 | [2m[src\index.ts][22m                            | 📡 Server running at http://192.168.0.138:3000/
+SUCCESS    | 07/03/2025, 13:31:50 | [2m[src\connection\client\index.ts][22m          | 🟢 Connected to socket client
+SUCCESS    | 07/03/2025, 13:31:50 | [2m[src\vusion\Message.ts][22m                   | 🟢 Match label - Tiempo: 213ms
+SUCCESS    | 07/03/2025, 13:49:03 | [2m[src\index.ts][22m                            | 📡 Server running at http://192.168.0.138:3000/
+SUCCESS    | 07/03/2025, 13:49:04 | [2m[src\connection\client\index.ts][22m          | 🟢 Connected to socket client
+SUCCESS    | 07/03/2025, 13:49:04 | [2m[src\vusion\Message.ts][22m                   | 🟢 Match label - Tiempo: 195ms
+SUCCESS    | 07/03/2025, 13:50:21 | [2m[src\index.ts][22m                            | 📡 Server running at http://192.168.0.138:3000/
+SUCCESS    | 07/03/2025, 13:50:21 | [2m[src\connection\client\index.ts][22m          | 🟢 Connected to socket client
+SUCCESS    | 07/03/2025, 13:50:27 | [2m[src\index.ts][22m                            | 📡 Server running at http://192.168.0.138:3000/
+SUCCESS    | 07/03/2025, 13:50:27 | [2m[src\connection\client\index.ts][22m          | 🟢 Connected to socket client
+SUCCESS    | 07/03/2025, 13:50:29 | [2m[src\index.ts][22m                            | 📡 Server running at http://192.168.0.138:3000/
+SUCCESS    | 07/03/2025, 13:50:29 | [2m[src\connection\client\index.ts][22m          | 🟢 Connected to socket client
+SUCCESS    | 07/03/2025, 13:50:31 | [2m[src\index.ts][22m                            | 📡 Server running at http://192.168.0.138:3000/
+SUCCESS    | 07/03/2025, 13:50:32 | [2m[src\connection\client\index.ts][22m          | 🟢 Connected to socket client
+SUCCESS    | 07/03/2025, 13:50:38 | [2m[src\index.ts][22m                            | 📡 Server running at http://192.168.0.138:3000/
+SUCCESS    | 07/03/2025, 13:50:38 | [2m[src\connection\client\index.ts][22m          | 🟢 Connected to socket client
+SUCCESS    | 07/03/2025, 13:50:49 | [2m[src\index.ts][22m                            | 📡 Server running at http://192.168.0.138:3000/
+SUCCESS    | 07/03/2025, 13:50:49 | [2m[src\connection\client\index.ts][22m          | 🟢 Connected to socket client
+SUCCESS    | 07/03/2025, 13:51:03 | [2m[src\index.ts][22m                            | 📡 Server running at http://192.168.0.138:3000/
+SUCCESS    | 07/03/2025, 13:51:03 | [2m[src\connection\client\index.ts][22m          | 🟢 Connected to socket client
+SUCCESS    | 07/03/2025, 13:51:08 | [2m[src\index.ts][22m                            | 📡 Server running at http://192.168.0.138:3000/
+SUCCESS    | 07/03/2025, 13:51:08 | [2m[src\connection\client\index.ts][22m          | 🟢 Connected to socket client
+SUCCESS    | 07/03/2025, 13:51:12 | [2m[src\index.ts][22m                            | 📡 Server running at http://192.168.0.138:3000/
+SUCCESS    | 07/03/2025, 13:51:12 | [2m[src\connection\client\index.ts][22m          | 🟢 Connected to socket client
+SUCCESS    | 07/03/2025, 13:51:48 | [2m[src\index.ts][22m                            | 📡 Server running at http://192.168.0.138:3000/
+SUCCESS    | 07/03/2025, 13:51:49 | [2m[src\connection\client\index.ts][22m          | 🟢 Connected to socket client
+SUCCESS    | 07/03/2025, 14:13:59 | [2m[src\index.ts][22m                            | 📡 Server running at http://192.168.0.138:3000/
+SUCCESS    | 07/03/2025, 14:13:59 | [2m[src\connection\client\index.ts][22m          | 🟢 Connected to socket client
+SUCCESS    | 07/03/2025, 14:15:11 | [2m[src\vusion\Message.ts][22m                   | 🟢 Match label - Tiempo: 71476ms
+SUCCESS    | 07/03/2025, 14:16:02 | [2m[src\index.ts][22m                            | 📡 Server running at http://192.168.0.138:3000/
+SUCCESS    | 07/03/2025, 14:16:02 | [2m[src\connection\client\index.ts][22m          | 🟢 Connected to socket client
+SUCCESS    | 07/03/2025, 14:16:31 | [2m[src\bowtz\Message.ts][22m                    | 🟢 Match label - Tiempo: 28459ms
+SUCCESS    | 07/03/2025, 14:16:31 | [2m[src\bowtz\Message.ts][22m                    | 🟢 Match label - Tiempo: 28476ms
+SUCCESS    | 07/03/2025, 14:16:45 | [2m[src\bowtz\Message.ts][22m                    | 🟢 Match label - Tiempo: 42812ms
+SUCCESS    | 07/03/2025, 14:17:14 | [2m[src\bowtz\Message.ts][22m                    | 🟢 Match label - Tiempo: 71482ms
+SUCCESS    | 07/03/2025, 14:17:14 | [2m[src\bowtz\Message.ts][22m                    | 🟢 Match label - Tiempo: 71483ms
+SUCCESS    | 07/03/2025, 14:19:16 | [2m[src\vusion\Message.ts][22m                   | 🟢 Match label - Tiempo: 193412ms
+SUCCESS    | 07/03/2025, 14:19:16 | [2m[src\vusion\Message.ts][22m                   | 🟢 Match label - Tiempo: 193413ms
+SUCCESS    | 07/03/2025, 14:19:16 | [2m[src\vusion\Message.ts][22m                   | 🟢 Match label - Tiempo: 193415ms
+SUCCESS    | 07/03/2025, 14:19:16 | [2m[src\vusion\Message.ts][22m                   | 🟢 Match label - Tiempo: 193414ms
+SUCCESS    | 07/03/2025, 14:19:16 | [2m[src\vusion\Message.ts][22m                   | 🟢 Match label - Tiempo: 193417ms
+SUCCESS    | 07/03/2025, 14:19:40 | [2m[src\bowtz\Message.ts][22m                    | 🟢 Match label - Tiempo: 38212ms
+SUCCESS    | 07/03/2025, 14:19:40 | [2m[src\bowtz\Message.ts][22m                    | 🟢 Match label - Tiempo: 38259ms
+SUCCESS    | 07/03/2025, 14:19:40 | [2m[src\bowtz\Message.ts][22m                    | 🟢 Match label - Tiempo: 38261ms
+SUCCESS    | 07/03/2025, 14:19:40 | [2m[src\bowtz\Message.ts][22m                    | 🟢 Match label - Tiempo: 38260ms
+SUCCESS    | 07/03/2025, 14:20:23 | [2m[src\bowtz\Message.ts][22m                    | 🟢 Match label - Tiempo: 81152ms
+SUCCESS    | 07/03/2025, 14:21:46 | [2m[src\vusion\Message.ts][22m                   | 🟢 Match label - Tiempo: 343497ms
+SUCCESS    | 07/03/2025, 14:21:46 | [2m[src\vusion\Message.ts][22m                   | 🟢 Match label - Tiempo: 163486ms
+SUCCESS    | 07/03/2025, 14:21:46 | [2m[src\vusion\Message.ts][22m                   | 🟢 Match label - Tiempo: 343499ms
+SUCCESS    | 07/03/2025, 14:21:46 | [2m[src\vusion\Message.ts][22m                   | 🟢 Match label - Tiempo: 343500ms
+SUCCESS    | 07/03/2025, 14:21:46 | [2m[src\vusion\Message.ts][22m                   | 🟢 Match label - Tiempo: 343501ms
+SUCCESS    | 07/03/2025, 14:22:36 | [2m[src\bowtz\Message.ts][22m                    | 🟢 Match label - Tiempo: 33683ms
+SUCCESS    | 07/03/2025, 14:22:36 | [2m[src\bowtz\Message.ts][22m                    | 🟢 Match label - Tiempo: 33693ms
+SUCCESS    | 07/03/2025, 14:22:36 | [2m[src\bowtz\Message.ts][22m                    | 🟢 Match label - Tiempo: 33703ms
+SUCCESS    | 07/03/2025, 14:22:36 | [2m[src\bowtz\Message.ts][22m                    | 🟢 Match label - Tiempo: 33714ms
+SUCCESS    | 07/03/2025, 14:22:36 | [2m[src\bowtz\Message.ts][22m                    | 🟢 Match label - Tiempo: 33725ms
+SUCCESS    | 07/03/2025, 14:25:21 | [2m[src\index.ts][22m                            | 📡 Server running at http://192.168.0.138:3000/
+SUCCESS    | 07/03/2025, 14:25:21 | [2m[src\connection\client\index.ts][22m          | 🟢 Connected to socket client
+SUCCESS    | 07/03/2025, 14:29:43 | [2m[src\vusion\Message.ts][22m                   | 🟢 Match label - Tiempo: 253380ms
+SUCCESS    | 07/03/2025, 14:29:44 | [2m[src\vusion\Message.ts][22m                   | 🟢 Match label - Tiempo: 81249ms
+SUCCESS    | 07/03/2025, 14:33:48 | [2m[src\index.ts][22m                            | 📡 Server running at http://192.168.0.138:3000/
+SUCCESS    | 07/03/2025, 14:33:48 | [2m[src\connection\client\index.ts][22m          | 🟢 Connected to socket client
+SUCCESS    | 07/03/2025, 14:34:20 | [2m[src\bowtz\Message.ts][22m                    | 🟢 Match label - Tiempo: 32002ms
+SUCCESS    | 07/03/2025, 14:34:20 | [2m[src\bowtz\Message.ts][22m                    | 🟢 Match label - Tiempo: 32003ms
+SUCCESS    | 07/03/2025, 14:34:20 | [2m[src\bowtz\Message.ts][22m                    | 🟢 Match label - Tiempo: 32032ms
+SUCCESS    | 07/03/2025, 14:34:35 | [2m[src\bowtz\Message.ts][22m                    | 🟢 Match label - Tiempo: 46361ms
+SUCCESS    | 07/03/2025, 14:34:35 | [2m[src\bowtz\Message.ts][22m                    | 🟢 Match label - Tiempo: 46377ms
+SUCCESS    | 07/03/2025, 14:34:35 | [2m[src\bowtz\Message.ts][22m                    | 🟢 Match label - Tiempo: 46396ms
+SUCCESS    | 07/03/2025, 14:34:35 | [2m[src\bowtz\Message.ts][22m                    | 🟢 Match label - Tiempo: 46413ms
+SUCCESS    | 07/03/2025, 14:34:35 | [2m[src\bowtz\Message.ts][22m                    | 🟢 Match label - Tiempo: 46425ms
+SUCCESS    | 07/03/2025, 14:35:56 | [2m[src\vusion\Message.ts][22m                   | 🟢 Match label - Tiempo: 127502ms
+SUCCESS    | 07/03/2025, 14:35:56 | [2m[src\vusion\Message.ts][22m                   | 🟢 Match label - Tiempo: 127503ms
+SUCCESS    | 07/03/2025, 14:35:56 | [2m[src\vusion\Message.ts][22m                   | 🟢 Match label - Tiempo: 127504ms
+SUCCESS    | 07/03/2025, 14:35:56 | [2m[src\vusion\Message.ts][22m                   | 🟢 Match label - Tiempo: 127504ms
+SUCCESS    | 07/03/2025, 14:35:56 | [2m[src\vusion\Message.ts][22m                   | 🟢 Match label - Tiempo: 127505ms
+SUCCESS    | 07/03/2025, 14:37:31 | [2m[src\bowtz\Message.ts][22m                    | 🟢 Match label - Tiempo: 42648ms
+SUCCESS    | 07/03/2025, 14:37:31 | [2m[src\bowtz\Message.ts][22m                    | 🟢 Match label - Tiempo: 42656ms
+SUCCESS    | 07/03/2025, 14:37:31 | [2m[src\bowtz\Message.ts][22m                    | 🟢 Match label - Tiempo: 42660ms
+SUCCESS    | 07/03/2025, 14:37:31 | [2m[src\bowtz\Message.ts][22m                    | 🟢 Match label - Tiempo: 42669ms
+SUCCESS    | 07/03/2025, 14:37:45 | [2m[src\bowtz\Message.ts][22m                    | 🟢 Match label - Tiempo: 57025ms
+SUCCESS    | 07/03/2025, 14:37:45 | [2m[src\bowtz\Message.ts][22m                    | 🟢 Match label - Tiempo: 57094ms
+SUCCESS    | 07/03/2025, 14:38:00 | [2m[src\bowtz\Message.ts][22m                    | 🟢 Match label - Tiempo: 71358ms
+SUCCESS    | 07/03/2025, 14:38:10 | [2m[src\vusion\Message.ts][22m                   | 🟢 Match label - Tiempo: 81218ms
+SUCCESS    | 07/03/2025, 14:38:11 | [2m[src\vusion\Message.ts][22m                   | 🟢 Match label - Tiempo: 262771ms
+SUCCESS    | 07/03/2025, 14:38:11 | [2m[src\vusion\Message.ts][22m                   | 🟢 Match label - Tiempo: 262772ms
+SUCCESS    | 07/03/2025, 14:38:11 | [2m[src\vusion\Message.ts][22m                   | 🟢 Match label - Tiempo: 262772ms
+SUCCESS    | 07/03/2025, 14:38:11 | [2m[src\vusion\Message.ts][22m                   | 🟢 Match label - Tiempo: 262773ms
+SUCCESS    | 07/03/2025, 14:39:11 | [2m[src\bowtz\Message.ts][22m                    | 🟢 Match label - Tiempo: 143007ms
+SUCCESS    | 07/03/2025, 14:39:41 | [2m[src\vusion\Message.ts][22m                   | 🟢 Match label - Tiempo: 172418ms
+SUCCESS    | 07/03/2025, 14:39:41 | [2m[src\vusion\Message.ts][22m                   | 🟢 Match label - Tiempo: 172419ms
+SUCCESS    | 07/03/2025, 14:39:41 | [2m[src\vusion\Message.ts][22m                   | 🟢 Match label - Tiempo: 172421ms
+SUCCESS    | 07/03/2025, 14:39:41 | [2m[src\vusion\Message.ts][22m                   | 🟢 Match label - Tiempo: 172419ms
+SUCCESS    | 07/03/2025, 14:39:41 | [2m[src\vusion\Message.ts][22m                   | 🟢 Match label - Tiempo: 172420ms
+SUCCESS    | 07/03/2025, 14:40:27 | [2m[src\bowtz\Message.ts][22m                    | 🟢 Match label - Tiempo: 39077ms
+SUCCESS    | 07/03/2025, 14:40:27 | [2m[src\bowtz\Message.ts][22m                    | 🟢 Match label - Tiempo: 39114ms
+SUCCESS    | 07/03/2025, 14:40:42 | [2m[src\bowtz\Message.ts][22m                    | 🟢 Match label - Tiempo: 53466ms
+SUCCESS    | 07/03/2025, 14:40:42 | [2m[src\bowtz\Message.ts][22m                    | 🟢 Match label - Tiempo: 53478ms
+SUCCESS    | 07/03/2025, 14:40:42 | [2m[src\bowtz\Message.ts][22m                    | 🟢 Match label - Tiempo: 53520ms
+SUCCESS    | 07/03/2025, 14:40:42 | [2m[src\bowtz\Message.ts][22m                    | 🟢 Match label - Tiempo: 53522ms
+SUCCESS    | 07/03/2025, 14:40:42 | [2m[src\bowtz\Message.ts][22m                    | 🟢 Match label - Tiempo: 53550ms
+SUCCESS    | 07/03/2025, 14:40:42 | [2m[src\bowtz\Message.ts][22m                    | 🟢 Match label - Tiempo: 53551ms
+SUCCESS    | 07/03/2025, 14:41:42 | [2m[src\vusion\Message.ts][22m                   | 🟢 Match label - Tiempo: 293690ms
+SUCCESS    | 07/03/2025, 14:41:42 | [2m[src\vusion\Message.ts][22m                   | 🟢 Match label - Tiempo: 293689ms
+SUCCESS    | 07/03/2025, 14:41:42 | [2m[src\vusion\Message.ts][22m                   | 🟢 Match label - Tiempo: 113683ms
+SUCCESS    | 07/03/2025, 14:41:42 | [2m[src\vusion\Message.ts][22m                   | 🟢 Match label - Tiempo: 113684ms
+SUCCESS    | 07/03/2025, 14:41:42 | [2m[src\vusion\Message.ts][22m                   | 🟢 Match label - Tiempo: 293692ms
+SUCCESS    | 07/03/2025, 14:43:08 | [2m[src\vusion\Message.ts][22m                   | 🟢 Match label - Tiempo: 199332ms
+SUCCESS    | 07/03/2025, 14:43:08 | [2m[src\vusion\Message.ts][22m                   | 🟢 Match label - Tiempo: 199332ms
+SUCCESS    | 07/03/2025, 14:43:08 | [2m[src\vusion\Message.ts][22m                   | 🟢 Match label - Tiempo: 199334ms
+SUCCESS    | 07/03/2025, 14:43:08 | [2m[src\vusion\Message.ts][22m                   | 🟢 Match label - Tiempo: 199333ms
+SUCCESS    | 07/03/2025, 14:43:08 | [2m[src\vusion\Message.ts][22m                   | 🟢 Match label - Tiempo: 199333ms
+SUCCESS    | 07/03/2025, 14:43:20 | [2m[src\bowtz\Message.ts][22m                    | 🟢 Match label - Tiempo: 32195ms
+SUCCESS    | 07/03/2025, 14:43:21 | [2m[src\bowtz\Message.ts][22m                    | 🟢 Match label - Tiempo: 32207ms
+SUCCESS    | 07/03/2025, 14:43:21 | [2m[src\bowtz\Message.ts][22m                    | 🟢 Match label - Tiempo: 32215ms
+SUCCESS    | 07/03/2025, 14:43:42 | [2m[src\bowtz\Message.ts][22m                    | 🟢 Match label - Tiempo: 53719ms
+SUCCESS    | 07/03/2025, 14:43:42 | [2m[src\bowtz\Message.ts][22m                    | 🟢 Match label - Tiempo: 53750ms
+SUCCESS    | 07/03/2025, 14:44:34 | [2m[src\index.ts][22m                            | 📡 Server running at http://192.168.0.138:3000/
+SUCCESS    | 07/03/2025, 14:44:35 | [2m[src\connection\client\index.ts][22m          | 🟢 Connected to socket client
+SUCCESS    | 07/03/2025, 14:45:22 | [2m[src\bowtz\Message.ts][22m                    | 🟢 Match label - Tiempo: 47724ms
+SUCCESS    | 07/03/2025, 14:45:29 | [2m[src\bowtz\Message.ts][22m                    | 🟢 Match label - Tiempo: 54883ms
+SUCCESS    | 07/03/2025, 14:48:21 | [2m[src\bowtz\Message.ts][22m                    | 🟢 Match label - Tiempo: 46334ms
+SUCCESS    | 07/03/2025, 14:48:21 | [2m[src\bowtz\Message.ts][22m                    | 🟢 Match label - Tiempo: 46372ms
+SUCCESS    | 07/03/2025, 14:50:04 | [2m[src\index.ts][22m                            | 📡 Server running at http://192.168.0.138:3000/
+SUCCESS    | 07/03/2025, 14:50:04 | [2m[src\connection\client\index.ts][22m          | 🟢 Connected to socket client
+SUCCESS    | 07/03/2025, 14:50:44 | [2m[src\bowtz\Message.ts][22m                    | 🟢 Match label - Tiempo: 39513ms
+SUCCESS    | 07/03/2025, 14:50:44 | [2m[src\bowtz\Message.ts][22m                    | 🟢 Match label - Tiempo: 39524ms
+SUCCESS    | 07/03/2025, 14:51:04 | [2m[src\index.ts][22m                            | 📡 Server running at http://192.168.0.138:3000/
+SUCCESS    | 07/03/2025, 14:51:04 | [2m[src\connection\client\index.ts][22m          | 🟢 Connected to socket client
+INFO       | 07/03/2025, 14:51:49 | [2m[src\connection\client\index.ts][22m          | ✅ Reconnected to socket client
+SUCCESS    | 07/03/2025, 15:01:18 | [2m[src\index.ts][22m                            | 📡 Server running at http://192.168.0.138:3000/
+SUCCESS    | 07/03/2025, 15:01:18 | [2m[src\connection\client\index.ts][22m          | 🟢 Connected to socket client
+INFO       | 07/03/2025, 15:02:17 | [2m[src\connection\client\index.ts][22m          | ✅ Reconnected to socket client
+SUCCESS    | 07/03/2025, 15:03:18 | [2m[src\index.ts][22m                            | 📡 Server running at http://localhost:3000/
+SUCCESS    | 12/03/2025, 11:45:39 | [2m[src\index.ts][22m                            | 📡 Server running at http://192.168.0.138:3000/
+SUCCESS    | 12/03/2025, 11:45:39 | [2m[src\connection\client\index.ts][22m          | Conectado a Redis
+SUCCESS    | 12/03/2025, 11:45:39 | [2m[src\connection\client\index.ts][22m          | 🟢 Connected to socket client
+SUCCESS    | 12/03/2025, 14:43:12 | [2m[src\index.ts][22m                            | 📡 Server running at http://192.168.0.138:3000/
+SUCCESS    | 12/03/2025, 14:43:12 | [2m[src\connection\client\index.ts][22m          | Conectado a Redis
+SUCCESS    | 12/03/2025, 14:43:12 | [2m[src\connection\client\index.ts][22m          | 🟢 Connected to socket client
+SUCCESS    | 12/03/2025, 14:43:53 | [2m[src\index.ts][22m                            | 📡 Server running at http://192.168.0.138:3000/
+SUCCESS    | 12/03/2025, 14:43:53 | [2m[src\connection\client\index.ts][22m          | Conectado a Redis
+SUCCESS    | 12/03/2025, 14:43:53 | [2m[src\connection\client\index.ts][22m          | 🟢 Connected to socket client
+SUCCESS    | 12/03/2025, 14:44:44 | [2m[src\bowtz\Message.ts][22m                    | 🟢 Match label - Tiempo: 50375ms
+SUCCESS    | 12/03/2025, 14:44:44 | [2m[src\bowtz\Message.ts][22m                    | 🟢 Match label - Tiempo: 50388ms
+SUCCESS    | 12/03/2025, 14:44:44 | [2m[src\bowtz\Message.ts][22m                    | 🟢 Match label - Tiempo: 50396ms
+SUCCESS    | 12/03/2025, 14:44:44 | [2m[src\bowtz\Message.ts][22m                    | 🟢 Match label - Tiempo: 50401ms
+SUCCESS    | 12/03/2025, 14:44:44 | [2m[src\bowtz\Message.ts][22m                    | 🟢 Match label - Tiempo: 50414ms
+SUCCESS    | 12/03/2025, 14:45:05 | [2m[src\bowtz\Message.ts][22m                    | 🟢 Match label - Tiempo: 71881ms
+SUCCESS    | 12/03/2025, 14:45:39 | [2m[src\vusion\Message.ts][22m                   | 🟢 Match label - Tiempo: 105611ms
+SUCCESS    | 12/03/2025, 14:45:39 | [2m[src\vusion\Message.ts][22m                   | 🟢 Match label - Tiempo: 105644ms
+SUCCESS    | 12/03/2025, 14:45:39 | [2m[src\vusion\Message.ts][22m                   | 🟢 Match label - Tiempo: 105646ms
+SUCCESS    | 12/03/2025, 14:45:39 | [2m[src\vusion\Message.ts][22m                   | 🟢 Match label - Tiempo: 105643ms
+SUCCESS    | 12/03/2025, 14:45:39 | [2m[src\vusion\Message.ts][22m                   | 🟢 Match label - Tiempo: 105647ms
+SUCCESS    | 12/03/2025, 14:45:39 | [2m[src\vusion\Message.ts][22m                   | 🟢 Match label - Tiempo: 105645ms
+SUCCESS    | 12/03/2025, 14:45:39 | [2m[src\vusion\Message.ts][22m                   | 🟢 Match label - Tiempo: 105644ms
+SUCCESS    | 12/03/2025, 14:45:39 | [2m[src\vusion\Message.ts][22m                   | 🟢 Match label - Tiempo: 105645ms
+SUCCESS    | 12/03/2025, 14:45:39 | [2m[src\vusion\Message.ts][22m                   | 🟢 Match label - Tiempo: 105646ms
+SUCCESS    | 12/03/2025, 14:47:31 | [2m[src\bowtz\Message.ts][22m                    | 🟢 Match label - Tiempo: 37272ms
+SUCCESS    | 12/03/2025, 14:47:31 | [2m[src\bowtz\Message.ts][22m                    | 🟢 Match label - Tiempo: 37283ms
+SUCCESS    | 12/03/2025, 14:47:31 | [2m[src\bowtz\Message.ts][22m                    | 🟢 Match label - Tiempo: 37307ms
+SUCCESS    | 12/03/2025, 14:47:45 | [2m[src\bowtz\Message.ts][22m                    | 🟢 Match label - Tiempo: 51673ms
+SUCCESS    | 12/03/2025, 14:47:45 | [2m[src\bowtz\Message.ts][22m                    | 🟢 Match label - Tiempo: 51686ms
+SUCCESS    | 12/03/2025, 14:47:45 | [2m[src\bowtz\Message.ts][22m                    | 🟢 Match label - Tiempo: 51702ms
+SUCCESS    | 12/03/2025, 14:48:45 | [2m[src\vusion\Message.ts][22m                   | 🟢 Match label - Tiempo: 111871ms
+SUCCESS    | 12/03/2025, 14:48:45 | [2m[src\vusion\Message.ts][22m                   | 🟢 Match label - Tiempo: 111901ms
+SUCCESS    | 12/03/2025, 14:48:45 | [2m[src\vusion\Message.ts][22m                   | 🟢 Match label - Tiempo: 111902ms
+SUCCESS    | 12/03/2025, 14:48:45 | [2m[src\vusion\Message.ts][22m                   | 🟢 Match label - Tiempo: 111901ms
+SUCCESS    | 12/03/2025, 14:48:45 | [2m[src\vusion\Message.ts][22m                   | 🟢 Match label - Tiempo: 111902ms
+SUCCESS    | 12/03/2025, 14:48:45 | [2m[src\vusion\Message.ts][22m                   | 🟢 Match label - Tiempo: 111904ms
+SUCCESS    | 12/03/2025, 14:48:45 | [2m[src\vusion\Message.ts][22m                   | 🟢 Match label - Tiempo: 111903ms
+SUCCESS    | 12/03/2025, 14:48:45 | [2m[src\vusion\Message.ts][22m                   | 🟢 Match label - Tiempo: 111901ms
+SUCCESS    | 12/03/2025, 14:48:45 | [2m[src\vusion\Message.ts][22m                   | 🟢 Match label - Tiempo: 111904ms
+SUCCESS    | 12/03/2025, 14:50:25 | [2m[src\bowtz\Message.ts][22m                    | 🟢 Match label - Tiempo: 32226ms
+SUCCESS    | 12/03/2025, 14:50:40 | [2m[src\bowtz\Message.ts][22m                    | 🟢 Match label - Tiempo: 46581ms
+SUCCESS    | 12/03/2025, 14:50:40 | [2m[src\bowtz\Message.ts][22m                    | 🟢 Match label - Tiempo: 46592ms
+SUCCESS    | 12/03/2025, 14:50:40 | [2m[src\bowtz\Message.ts][22m                    | 🟢 Match label - Tiempo: 46597ms
+SUCCESS    | 12/03/2025, 14:50:40 | [2m[src\bowtz\Message.ts][22m                    | 🟢 Match label - Tiempo: 46609ms
+SUCCESS    | 12/03/2025, 14:50:40 | [2m[src\bowtz\Message.ts][22m                    | 🟢 Match label - Tiempo: 46621ms
+SUCCESS    | 12/03/2025, 14:51:41 | [2m[src\vusion\Message.ts][22m                   | 🟢 Match label - Tiempo: 107478ms
+SUCCESS    | 12/03/2025, 14:51:41 | [2m[src\vusion\Message.ts][22m                   | 🟢 Match label - Tiempo: 107508ms
+SUCCESS    | 12/03/2025, 14:51:41 | [2m[src\vusion\Message.ts][22m                   | 🟢 Match label - Tiempo: 107510ms
+SUCCESS    | 12/03/2025, 14:51:41 | [2m[src\vusion\Message.ts][22m                   | 🟢 Match label - Tiempo: 107509ms
+SUCCESS    | 12/03/2025, 14:51:41 | [2m[src\vusion\Message.ts][22m                   | 🟢 Match label - Tiempo: 107509ms
+SUCCESS    | 12/03/2025, 14:51:41 | [2m[src\vusion\Message.ts][22m                   | 🟢 Match label - Tiempo: 107508ms
+SUCCESS    | 12/03/2025, 14:51:41 | [2m[src\vusion\Message.ts][22m                   | 🟢 Match label - Tiempo: 107509ms
+SUCCESS    | 12/03/2025, 14:51:41 | [2m[src\vusion\Message.ts][22m                   | 🟢 Match label - Tiempo: 107508ms
+SUCCESS    | 12/03/2025, 14:51:41 | [2m[src\vusion\Message.ts][22m                   | 🟢 Match label - Tiempo: 107510ms
+SUCCESS    | 12/03/2025, 14:53:27 | [2m[src\bowtz\Message.ts][22m                    | 🟢 Match label - Tiempo: 33627ms
+SUCCESS    | 12/03/2025, 14:53:48 | [2m[src\bowtz\Message.ts][22m                    | 🟢 Match label - Tiempo: 55167ms
+SUCCESS    | 12/03/2025, 14:53:48 | [2m[src\bowtz\Message.ts][22m                    | 🟢 Match label - Tiempo: 55174ms
+SUCCESS    | 12/03/2025, 14:53:48 | [2m[src\bowtz\Message.ts][22m                    | 🟢 Match label - Tiempo: 55236ms
+SUCCESS    | 12/03/2025, 14:53:49 | [2m[src\bowtz\Message.ts][22m                    | 🟢 Match label - Tiempo: 55246ms
+SUCCESS    | 12/03/2025, 14:54:03 | [2m[src\bowtz\Message.ts][22m                    | 🟢 Match label - Tiempo: 69511ms
+SUCCESS    | 12/03/2025, 14:55:16 | [2m[src\vusion\Message.ts][22m                   | 🟢 Match label - Tiempo: 142648ms
+SUCCESS    | 12/03/2025, 14:55:16 | [2m[src\vusion\Message.ts][22m                   | 🟢 Match label - Tiempo: 142650ms
+SUCCESS    | 12/03/2025, 14:55:16 | [2m[src\vusion\Message.ts][22m                   | 🟢 Match label - Tiempo: 142678ms
+SUCCESS    | 12/03/2025, 14:55:16 | [2m[src\vusion\Message.ts][22m                   | 🟢 Match label - Tiempo: 142682ms
+SUCCESS    | 12/03/2025, 14:55:16 | [2m[src\vusion\Message.ts][22m                   | 🟢 Match label - Tiempo: 142678ms
+SUCCESS    | 12/03/2025, 14:55:16 | [2m[src\vusion\Message.ts][22m                   | 🟢 Match label - Tiempo: 142680ms
+SUCCESS    | 12/03/2025, 14:55:16 | [2m[src\vusion\Message.ts][22m                   | 🟢 Match label - Tiempo: 142680ms
+SUCCESS    | 12/03/2025, 14:55:16 | [2m[src\vusion\Message.ts][22m                   | 🟢 Match label - Tiempo: 142679ms
+SUCCESS    | 12/03/2025, 14:55:16 | [2m[src\vusion\Message.ts][22m                   | 🟢 Match label - Tiempo: 142681ms
+SUCCESS    | 12/03/2025, 14:56:21 | [2m[src\bowtz\Message.ts][22m                    | 🟢 Match label - Tiempo: 27787ms
+SUCCESS    | 12/03/2025, 14:56:21 | [2m[src\bowtz\Message.ts][22m                    | 🟢 Match label - Tiempo: 27797ms
+SUCCESS    | 12/03/2025, 14:56:43 | [2m[src\bowtz\Message.ts][22m                    | 🟢 Match label - Tiempo: 49243ms
+SUCCESS    | 12/03/2025, 14:56:43 | [2m[src\bowtz\Message.ts][22m                    | 🟢 Match label - Tiempo: 49263ms
+SUCCESS    | 12/03/2025, 14:56:43 | [2m[src\bowtz\Message.ts][22m                    | 🟢 Match label - Tiempo: 49287ms
+SUCCESS    | 12/03/2025, 14:56:43 | [2m[src\bowtz\Message.ts][22m                    | 🟢 Match label - Tiempo: 49288ms
+SUCCESS    | 12/03/2025, 14:57:37 | [2m[src\vusion\Message.ts][22m                   | 🟢 Match label - Tiempo: 104026ms
+SUCCESS    | 12/03/2025, 14:57:37 | [2m[src\vusion\Message.ts][22m                   | 🟢 Match label - Tiempo: 104027ms
+SUCCESS    | 12/03/2025, 14:57:37 | [2m[src\vusion\Message.ts][22m                   | 🟢 Match label - Tiempo: 104061ms
+SUCCESS    | 12/03/2025, 14:57:37 | [2m[src\vusion\Message.ts][22m                   | 🟢 Match label - Tiempo: 104061ms
+SUCCESS    | 12/03/2025, 14:57:37 | [2m[src\vusion\Message.ts][22m                   | 🟢 Match label - Tiempo: 104061ms
+SUCCESS    | 12/03/2025, 14:57:37 | [2m[src\vusion\Message.ts][22m                   | 🟢 Match label - Tiempo: 104062ms
+SUCCESS    | 12/03/2025, 14:57:37 | [2m[src\vusion\Message.ts][22m                   | 🟢 Match label - Tiempo: 104060ms
+SUCCESS    | 12/03/2025, 14:57:37 | [2m[src\vusion\Message.ts][22m                   | 🟢 Match label - Tiempo: 104063ms
+SUCCESS    | 12/03/2025, 14:57:37 | [2m[src\vusion\Message.ts][22m                   | 🟢 Match label - Tiempo: 104064ms
+SUCCESS    | 12/03/2025, 14:59:37 | [2m[src\bowtz\Message.ts][22m                    | 🟢 Match label - Tiempo: 43463ms
+SUCCESS    | 12/03/2025, 14:59:37 | [2m[src\bowtz\Message.ts][22m                    | 🟢 Match label - Tiempo: 43469ms
+SUCCESS    | 12/03/2025, 14:59:37 | [2m[src\bowtz\Message.ts][22m                    | 🟢 Match label - Tiempo: 43478ms
+SUCCESS    | 12/03/2025, 14:59:37 | [2m[src\bowtz\Message.ts][22m                    | 🟢 Match label - Tiempo: 43487ms
+SUCCESS    | 12/03/2025, 14:59:37 | [2m[src\bowtz\Message.ts][22m                    | 🟢 Match label - Tiempo: 43496ms
+SUCCESS    | 12/03/2025, 14:59:37 | [2m[src\bowtz\Message.ts][22m                    | 🟢 Match label - Tiempo: 43508ms
+SUCCESS    | 12/03/2025, 15:00:41 | [2m[src\vusion\Message.ts][22m                   | 🟢 Match label - Tiempo: 108084ms
+SUCCESS    | 12/03/2025, 15:00:41 | [2m[src\vusion\Message.ts][22m                   | 🟢 Match label - Tiempo: 108085ms
+SUCCESS    | 12/03/2025, 15:00:41 | [2m[src\vusion\Message.ts][22m                   | 🟢 Match label - Tiempo: 108118ms
+SUCCESS    | 12/03/2025, 15:00:41 | [2m[src\vusion\Message.ts][22m                   | 🟢 Match label - Tiempo: 108122ms
+SUCCESS    | 12/03/2025, 15:00:41 | [2m[src\vusion\Message.ts][22m                   | 🟢 Match label - Tiempo: 108120ms
+SUCCESS    | 12/03/2025, 15:00:41 | [2m[src\vusion\Message.ts][22m                   | 🟢 Match label - Tiempo: 108121ms
+SUCCESS    | 12/03/2025, 15:00:41 | [2m[src\vusion\Message.ts][22m                   | 🟢 Match label - Tiempo: 108121ms
+SUCCESS    | 12/03/2025, 15:00:41 | [2m[src\vusion\Message.ts][22m                   | 🟢 Match label - Tiempo: 108122ms
+SUCCESS    | 12/03/2025, 15:00:41 | [2m[src\vusion\Message.ts][22m                   | 🟢 Match label - Tiempo: 108122ms
+SUCCESS    | 12/03/2025, 15:02:31 | [2m[src\bowtz\Message.ts][22m                    | 🟢 Match label - Tiempo: 37590ms
+SUCCESS    | 12/03/2025, 15:02:31 | [2m[src\bowtz\Message.ts][22m                    | 🟢 Match label - Tiempo: 37623ms
+SUCCESS    | 12/03/2025, 15:02:31 | [2m[src\bowtz\Message.ts][22m                    | 🟢 Match label - Tiempo: 37624ms
+SUCCESS    | 12/03/2025, 15:02:45 | [2m[src\bowtz\Message.ts][22m                    | 🟢 Match label - Tiempo: 51946ms
+SUCCESS    | 12/03/2025, 15:02:45 | [2m[src\bowtz\Message.ts][22m                    | 🟢 Match label - Tiempo: 51957ms
+SUCCESS    | 12/03/2025, 15:02:45 | [2m[src\bowtz\Message.ts][22m                    | 🟢 Match label - Tiempo: 51966ms
+SUCCESS    | 12/03/2025, 15:28:00 | [2m[src\index.ts][22m                            | 📡 Server running at http://192.168.0.138:3000/
+SUCCESS    | 12/03/2025, 15:28:00 | [2m[src\connection\client\index.ts][22m          | Conectado a Redis
+SUCCESS    | 12/03/2025, 15:28:00 | [2m[src\connection\client\index.ts][22m          | 🟢 Connected to socket client

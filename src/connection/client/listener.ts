@@ -26,7 +26,8 @@ export const messageEvent = (socket: Socket): void => {
     if (response.event.includes('Set') && response.message != null) {
       if (
         response.message.includes('Task completed') ||
-        response.message.includes('Task added to queue')
+        (response.message.includes('Task added to queue') &&
+          owner === 'ses_service')
       ) {
         emitEvent(
           requestId ?? response.taskId,
