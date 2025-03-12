@@ -53,7 +53,10 @@ class MensajeBowtz {
         ? (this.timeTotal / (this.count - 1) / 1000).toFixed(2)
         : '0.00';
 
-    await this.redis.set(`article:${this.articleId}:averageTime`, averageTime);
+    await this.redis.set(
+      `article_bowtz:${this.articleId}:averageTime`,
+      averageTime
+    );
 
     this.client.emit('message', {
       id: this.messageKey,
@@ -100,7 +103,7 @@ class MensajeBowtz {
         __filename
       );
       await this.redis.set(
-        `article:${this.articleId}:averageTime`,
+        `article_bowtz:${this.articleId}:averageTime`,
         averageTime
       );
     });

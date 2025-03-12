@@ -5,6 +5,7 @@ import { formatDateTime } from '@/utils/date';
 import { log } from '@/utils/logs';
 import { randomUUID, UUID } from 'crypto';
 import { Socket } from 'socket.io-client';
+import Redis from 'ioredis';
 
 class MensajeVusion {
   private service: string;
@@ -18,6 +19,7 @@ class MensajeVusion {
   private count: number;
   private timeTotal: number;
   private intervalo: NodeJS.Timeout;
+  private redis: Redis;
 
   constructor(service: string, storeId: string, articleId: string) {
     this.service = service;
@@ -29,11 +31,12 @@ class MensajeVusion {
     this.timeTotalCurrentChange = 0;
     this.count = 0;
     this.timeTotal = 0;
+    this.redis = new Redis();
     this.enviarMensaje();
     this.intervalo = setInterval(() => this.enviarMensaje(), 180000);
   }
 
-  private enviarMensaje() {
+  private async enviarMensaje() {
     this.messageKey = randomUUID();
     this.count++;
     const startTime = Date.now();
@@ -43,6 +46,11 @@ class MensajeVusion {
       this.timeTotal !== 0
         ? (this.timeTotal / (this.count - 1) / 1000).toFixed(2)
         : '0.00';
+
+    await this.redis.set(
+      `article_ses:${this.articleId}:averageTime`,
+      averageTime
+    );
 
     this.client.emit('message', {
       id: this.messageKey,
@@ -79,23 +87,32 @@ class MensajeVusion {
       }
     );
 
-    const listener = (params: string): void => {
-      onEvent(params, 'ses_service', (dataResponse: ResponseMessageBase) => {
-        const message = dataResponse;
-        message.taskId = this.messageKey as UUID;
-        this.timeTotalCurrentChange = Date.now() - startTime;
-        this.timeTotal += this.timeTotalCurrentChange;
-        log(
-          `🟢 Match label - Tiempo: ${this.timeTotalCurrentChange}ms`,
-          'success',
-          __filename
-        );
-      });
+    const listener = async (params: string): Promise<void> => {
+      onEvent(
+        params,
+        'ses_service',
+        async (dataResponse: ResponseMessageBase) => {
+          const message = dataResponse;
+          message.taskId = this.messageKey as UUID;
+          this.timeTotalCurrentChange = Date.now() - startTime;
+          this.timeTotal += this.timeTotalCurrentChange;
+          log(
+            `🟢 Match label - Tiempo: ${this.timeTotalCurrentChange}ms`,
+            'success',
+            __filename
+          );
+          await this.redis.set(
+            `article_ses:${this.articleId}:averageTime`,
+            averageTime
+          );
+        }
+      );
     };
   }
 
   public detenerEnvio() {
     clearInterval(this.intervalo);
+    this.redis.quit();
   }
 }
 
